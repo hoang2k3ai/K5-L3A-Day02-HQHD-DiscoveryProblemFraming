@@ -58,9 +58,12 @@ Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 
 | Candidate | Actor rõ | Quy trình rõ | Pain có bằng chứng | Impact đo được | Vừa sức lab | So sánh được No AI/Rule/Workflow/Agent | Nhóm hiểu domain | Tổng |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
+| Quân — dạy tiểu học, tương tác và hiệu ứng vui nhộn cho bài giảng (#1) | 5 | 4 | 3 | 3 | 3 | 4 | 3 | 25 |
+| Huy — gợi ý trả lời câu hỏi Fanpage/Messenger tuyển sinh (#4) | 4 | 4 | 3 | 3 | 3 | 4 | 3 | 24 |
+| Hoàng — quay lại dự án sau khi bị chuyển việc (#7) | 4 | 4 | 3 | 2 | 5 | 5 | 5 | 28 |
+| Dũng — chọn tài liệu tự học HTML/CSS phù hợp trình độ (#10) | 5 | 4 | 3 | 3 | 4 | 4 | 4 | 27 |
+
+_Điểm nháp do mình suy ra từ các card cá nhân; nhóm cần chấm lại theo thang 1–5 trước khi chốt._
 
 **Candidate được chọn:**
 
