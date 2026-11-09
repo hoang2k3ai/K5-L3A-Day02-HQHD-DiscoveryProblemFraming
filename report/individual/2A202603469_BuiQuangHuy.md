@@ -186,16 +186,16 @@ TỔNG THỜI GIAN: 24 phút/yêu cầu
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Tôi pitch Card #1: gợi ý câu trả lời cho ứng viên/học viên hỏi qua Fanpage, dựa trên thông tin chương trình đã xác thực. | Đưa thêm candidate về hỗ trợ tuyển sinh/học viên để nhóm so sánh. Nhóm chọn Card #1 của Quân về giáo viên cần biết học sinh nào cần giúp và vì sao; card của tôi không được chọn. |
+| Phản biện bài của bạn khác | Câu hỏi tôi đặt khi xem xét problem của nhóm: “Cờ ‘Cần giúp’ hiện chỉ dựa trên ngưỡng ngày và điểm; dữ liệu nào giải thích được lý do, và giáo viên có kiểm tra được căn cứ đó không?” | Nhấn mạnh cần tách việc phát hiện theo rule khỏi việc giải thích, đồng thời không để AI tự suy đoán nguyên nhân nếu dữ liệu không hỗ trợ. |
+| Nhận phản biện | Câu hỏi tôi nhận được về Card #1 là: nếu thông tin tuyển sinh hoặc lịch học thay đổi liên tục, làm sao bảo đảm câu trả lời chỉ dựa trên nguồn xác thực và không cũ? | Tôi giới hạn giả thuyết ở câu hỏi phổ biến, đề xuất dùng nguồn chính thức được cập nhật và để nhân viên kiểm tra trước khi gửi; câu phức tạp chuyển cho người phụ trách. |
+| Gom cluster / cây OST | Tôi đặt card của mình cạnh problem nhóm chọn để phân biệt nhu cầu hỗ trợ trả lời thông tin với nhu cầu theo dõi, hỗ trợ học sinh. Với card được chọn, opportunity là giáo viên thiếu căn cứ dễ hiểu để biết vì sao một em được gắn cờ; “thêm AI/cờ mới” chỉ là hướng giải pháp. | Giúp giữ thảo luận quanh nhu cầu và căn cứ cần có, thay vì mặc định phải dùng AI. Báo cáo nhóm chưa ghi cluster/OST đã được chốt, nên đây là cách tôi đóng góp góc nhìn. |
+| Chọn candidate problem | Tôi tham gia đối chiếu card Fanpage của mình với card của Quân. Tôi đồng thuận nhóm chọn card của Quân vì actor và bối cảnh lớp học 40 học sinh cụ thể; đồng thời lưu ý bằng chứng về số lượng vấn đề và mức độ quá tải còn thiếu. | Candidate được chọn là: giáo viên cần biết em nào cần giúp và vì sao, thay vì chỉ thấy cờ dựa trên ngưỡng ngày và điểm. Card Fanpage của tôi không vào lựa chọn cuối. |
+| Kiểm chứng / research | Tôi chưa có kết quả phỏng vấn, survey hay log được ghi nhận cho problem nhóm chọn. Tôi xác định cần hỏi giáo viên về lần gần nhất có nhiều cờ, cách họ tìm lý do và thời gian xử lý; đồng thời kiểm tra xem dữ liệu hiện có thực sự giải thích được từng cờ không. | Tránh xem nhận định “3 cờ đã gây quá tải” là baseline đã xác nhận. Đây là giả định cần kiểm chứng trước khi kết luận về mức độ pain hoặc hiệu quả giải pháp. |
+| Quy trình nhóm | Tôi góp ý nhìn quy trình theo luồng: hệ thống gắn cờ theo ngưỡng ngày/điểm → giáo viên xem tín hiệu và lý do → giáo viên xác minh, ưu tiên trường hợp → quyết định cách hỗ trợ. | Làm rõ điểm cần cải thiện là thiếu lý do/căn cứ hữu ích sau khi có cờ; chưa có số đo thời gian cho từng bước nên cần ghi baseline trong pilot. |
+| Problem Statement | Tôi góp phần diễn đạt problem đã chọn: Khi theo dõi khoảng 40 học sinh, giáo viên muốn biết em nào cần giúp và vì sao để nhắc đúng em; hiện cờ chỉ dựa trên ngưỡng ngày và điểm, không nêu lý do, khiến giáo viên khó hiểu và ưu tiên hỗ trợ. | Giữ actor, bối cảnh và bottleneck trong phạm vi cụ thể; cần bổ sung tần suất cờ, thời gian xử lý và trường hợp bỏ sót để xác định impact và success metric. |
+| Mức can thiệp AI | Tôi đề xuất chưa để AI tự quyết định học sinh nào cần giúp. Có thể giữ rule hiện tại để phát hiện cờ; nếu dữ liệu học tập có căn cứ, AI chỉ tóm tắt tín hiệu liên quan cho giáo viên xem và xác minh. | Xác định boundary: không tự suy diễn nguyên nhân, đánh giá năng lực hay liên hệ học sinh/phụ huynh. Nếu chưa kiểm chứng được dữ liệu hoặc lợi ích, dùng rule và hiển thị tín hiệu gốc trước. |
+| Quyết định | Tôi ủng hộ tiếp tục kiểm chứng problem và thử pilot giới hạn sau khi xác nhận với giáo viên và kiểm tra chất lượng dữ liệu; đây là đề xuất cá nhân, không phải quyết định Go/Not Yet/No-Go đã được ghi nhận của cả nhóm. | Trước khi mở rộng cần đo số cờ, thời gian tìm hiểu lý do, mức hữu ích của căn cứ và lỗi giải thích. Nếu không có căn cứ đáng tin cậy, chưa triển khai phần AI và giữ phương án rule có thể kiểm tra. |
 
 ---
 
@@ -219,24 +219,28 @@ Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ ch
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
 
 - Có góc nhìn đa chiều về một vấn đề
-- 
+- Cùng một vấn dề nhưng các bạn xác định actor, pain point và bottleneck khác nhau
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
-
+- Không, 
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
 
-- Không đổi ý.
+- Không đổi ý. 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
 
--
+- Điều tôi quan tâm nhất trong quá trình kiểm chứng là sự khác biệt giữa những gì nhóm dự đoán và khó khăn thực tế của người dùng. Trước đó, tôi thường nghĩ rằng một giải pháp có ứng dụng AI sẽ giúp công việc nhanh hơn. Tuy nhiên, để khẳng định điều này, nhóm cần có số liệu cụ thể về thời gian thực hiện, chất lượng kết quả và mức độ sẵn sàng sử dụng của giáo viên. Tôi nhận ra rằng những giả định ban đầu chưa đủ để chứng minh một bài toán đáng giải quyết nếu chưa có bằng chứng kiểm chứng phù hợp
+
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
 
-- Xác định được đúng actor, gọi tên đúng pain point. Cần xác định chính xác bottleneck nằm ở đâu.
+- Xác định được đúng actor, gọi tên đúng pain point. Cần xác định chính xác bottleneck nằm ở đâu. Khó khăn lớn nhất là xác định đúng actor, gọi tên chính xác pain point và tìm ra bottleneck trong quy trình. Ban đầu, một vấn đề thường được mô tả khá chung chung nên rất khó xác định cần tập trung giải quyết phần nào. Ví dụ, nói rằng giáo viên mất nhiều thời gian chuẩn bị bài giảng vẫn chưa đủ cụ thể. Cần xác định rõ bước dựng và chỉnh sửa hiệu ứng đang mất từ 30 phút đến 2 giờ. Khi xác định được bottleneck, nhóm mới có cơ sở để đề xuất giải pháp và xây dựng metric đo lường hiệu quả
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
 
-- Nếu làm lại, tôi sẽ cố gằng tìm ra được metric rõ ràng
+- Nếu làm lại, tôi sẽ cố gằng tìm ra được metric rõ ràng ngay từ đầu thay vì chỉ mô tả vấn đề bằng cảm nhận. Tôi muốn có số liệu cụ thể về thời gian thực hiện công việc, tần suất xảy ra khó khăn và mức độ ảnh hưởng đến người dùng. Ngoài ra, tôi sẽ phản biện nhóm mạnh hơn về sự cần thiết của AI, đặc biệt là câu hỏi liệu các công cụ truyền thống hoặc giải pháp đơn giản hơn có thể giải quyết vấn đề hay không.
+
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
+
+- TRong quy trình hiện tại, giáo viên phải tự lên ý tưởng, tìm kiếm, thiết kế và chỉnh sửa hiệu ứng, trong đó bước dựng và chỉnh sửa là bottleneck lớn nhất, mất khoảng 30 phút đến 2 giờ. Metric chính mà nhóm hướng đến là thời gian hoàn thành hiệu ứng cho bài giảng và mức độ phù hợp với nội dung học tập. Boundary của bài toán là chỉ tập trung hỗ trợ tạo hiệu ứng và tương tác, không thay thế giáo viên trong việc xây dựng kiến thức hay giảng dạy. AI đóng vai trò gợi ý và hỗ trợ tạo hiệu ứng dựa trên nội dung bài học, còn giáo viên vẫn là người kiểm tra và quyết định sử dụng. Nhóm lựa chọn hướng tiếp cận này vì muốn giải quyết công đoạn tốn nhiều thời gian nhất trong quy trình chuẩn bị bài giảng
 
 ---
 
