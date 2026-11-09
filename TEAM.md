@@ -79,3 +79,27 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 **Điều mình học được từ phần nhóm:**
 
 - _[Tự bổ sung sau CP3–CP6 bằng trải nghiệm thực tế.]_
+
+### Bùi Quang Huy-2A202603469
+
+**Phần việc phụ trách:**
+
+- CP1: scan 5 problem từ trải nghiệm hỗ trợ chương trình, vận hành lớp học và công việc.
+- CP2: chọn top 3 Problem Card, mô tả quy trình hiện tại và nêu giả định cần kiểm chứng.
+- CP3: pitch các candidate của mình, tiếp nhận phản biện về độ tin cậy/cập nhật của nguồn thông tin và tham gia thảo luận, phản biện các candidate trong nhóm.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Hoàn thiện báo cáo cá nhân với scan CP1, 3 Problem Card, quy trình nháp và phản biện nhận được.
+- Đưa 3 candidate vào bảng pitch của nhóm: gợi ý trả lời câu hỏi Fanpage, nhắc lịch học và hợp nhất lịch sử hỗ trợ đa kênh.
+- Tham gia phân loại candidate theo nhu cầu tìm/đối chiếu thông tin, khôi phục ngữ cảnh và xử lý công việc lặp lại. Nhóm chọn Problem Card #1 của Lê Hồng Quân; các candidate của tôi không được chọn.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- `report/individual/2A202603469_BuiQuangHuy.md`, mục 2–3.
+- `report/team/group_report.md`, mục 2.1, dòng 4–6 (các candidate được pitch) và mục 2.2–2.3 (cluster, OST).
+- Commit cá nhân: `94c7f53` (`update cp3-7`, cập nhật báo cáo cá nhân).
+
+**Điều mình học được từ phần nhóm:**
+
+- Cần mô tả đúng actor, pain point, bottleneck và có số liệu trước khi kết luận một problem đáng giải quyết. AI không mặc nhiên là lựa chọn tốt nhất; nên so sánh với FAQ, rule hoặc quy trình hiện có, đồng thời kiểm chứng nhu cầu và chất lượng dữ liệu với người dùng.

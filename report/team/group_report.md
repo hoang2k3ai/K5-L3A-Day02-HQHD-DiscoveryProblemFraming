@@ -24,43 +24,46 @@
 | 4 | Bùi Quang Huy | Khi ứng viên hoặc học viên hỏi qua Messenger/bình luận Fanpage, tôi muốn có câu trả lời gợi ý dựa trên thông tin đã xác thực, để phản hồi nhanh và nhất quán | Nhân viên trực Fanpage/tư vấn tuyển sinh; ứng viên và học viên | Bước 3: tra cứu FAQ/tài liệu hoặc hỏi điều phối viên, khoảng 5 phút/câu khi thông tin thay đổi | Nếu thông tin tuyển sinh hoặc lịch học thay đổi liên tục, làm sao đảm bảo AI chỉ gợi ý câu trả lời từ nguồn đã xác thực và không cung cấp thông tin cũ? |
 | 5 | Bùi Quang Huy | Khi sắp có buổi học hoặc lịch học thay đổi, tôi muốn nhận nhắc nhở kịp thời về thông tin buổi học, để tham gia đầy đủ và chuẩn bị tốt | Học viên; điều phối viên lớp học | Bước 3–4: lấy danh sách/kênh nhận và gửi nhắc thủ công; dễ bỏ sót lớp khi lịch thay đổi sát giờ | Nếu lịch học thay đổi sát giờ hoặc học viên không nhận được thông báo, hệ thống làm sao phát hiện và đảm bảo không bỏ sót người cần nhắc?|
 | 6 | Bùi Quang Huy | Khi chủ xe VinFast báo lỗi qua email, hotline hoặc ứng dụng, tôi muốn xem lịch sử tương tác và trạng thái xử lý tập trung, để khách không phải cung cấp lại thông tin và tránh tạo ticket trùng | Nhân viên CSKH VinFast; bộ phận kỹ thuật; cố vấn dịch vụ | Bước 3–4: tra cứu lịch sử và đối chiếu ticket từ nhiều nguồn, ước tính 8–12 phút/yêu cầu | Nếu dữ liệu CSKH VinFast nằm ở nhiều hệ thống khác nhau và không có mã định danh thống nhất, làm sao hợp nhất chính xác lịch sử tương tác mà không ghép nhầm khách hàng hoặc tạo ticket trùng? |
-| 7 | | | | | |
-| 8 | | | | | |
-| 9 | | | | | |
-| 10 | | | | | |
-| 11 | | | | | |
-| 12 | | | | | |
+| 7 | Đào Huy Hoàng | Khi quay lại một dự án sau khi bị chuyển sang việc ưu tiên khác, tôi muốn nhanh chóng nhớ mình đã làm đến đâu và bước tiếp theo là gì, để tiếp tục mà không phải dò lại từ đầu | Junior AI Engineer đang làm nhiều dự án | Đọc lại log/task và commit để tìm điểm đang dở: khoảng 60 phút lần gần nhất (4 bước × ~15 phút) | _[chưa có câu hỏi]_ |
+| 8 | Đào Huy Hoàng | Khi nhiều dự án có deadline khác nhau cùng được giao, tôi muốn biết việc nào cần ưu tiên và khi nào chuyển việc, để không bỏ lỡ mốc quan trọng của dự án nào | Junior AI Engineer theo dõi nhiều dự án | So sánh deadline, trạng thái và ưu tiên để chọn task tiếp theo: khoảng 8 phút trong ~20 phút rà soát mỗi sáng | _[chưa có câu hỏi]_ |
+| 9 | Đào Huy Hoàng | Khi có tin mới ở nhiều kênh Discord của chương trình, tôi muốn biết tin nào liên quan và cần xử lý, để không bỏ lỡ thông báo hoặc việc cần làm | Học viên chương trình Đào tạo AI thực chiến | Xác định tin liên quan và việc cần làm giữa nhiều kênh: khoảng 8 phút mỗi lần kiểm tra (~15 phút/lần, khoảng 2 tiếng một lần) | _[chưa có câu hỏi]_ |
+| 10 | Hồ Văn Dũng | Khi chọn tài liệu tự học HTML/CSS, tôi muốn chọn nguồn phù hợp với trình độ hiện tại, để hiểu bài mà không phải liên tục đổi nguồn | Bản thân — người tự học lập trình web | Đọc/xem thử để đánh giá độ phù hợp khoảng 20 phút; tìm và chọn nguồn mất 30–50 phút, bỏ qua 3–4 nguồn | _[chưa có câu hỏi]_ |
+| 11 | Hồ Văn Dũng | Khi muốn tạo form đăng nhập HTML/CSS nhưng chưa biết bắt đầu từ đâu, tôi muốn xác định kiến thức và từ khóa cần tìm, để tìm được tài liệu hướng dẫn đúng nhu cầu | Bản thân — người mới tự học web | Xác định kết quả tìm được có đáp ứng mục tiêu hay không; cả quá trình tìm khoảng 20 phút, đổi từ khóa/nguồn 3–4 lần | _[chưa có câu hỏi]_ |
+| 12 | Hồ Văn Dũng | Khi chỉ cần một nội dung cụ thể trong khóa Java dài, tôi muốn tìm đúng bài hoặc đoạn liên quan, để tiếp cận kiến thức cần nhanh hơn | Bản thân — người tự học lập trình qua video | Tìm đoạn chứa nội dung OOP: khoảng 20 phút tổng, bước 4 khoảng 5 phút | _[chưa có câu hỏi]_ |
 
 ### 2.2. Cluster
 
 | Cluster | Các candidate | Pattern chung |
 |---|---|---|
-| A | | |
-| B | | |
-| C | | |
+| A | 4, 6, 9, 10, 11, 12 | Người làm cần một thông tin đúng nhưng phải dò nhiều nguồn rời rạc (FAQ, kênh chat, lịch sử ticket, tài liệu, video) và đối chiếu thủ công |
+| B | 3, 7, 8 | Người làm mất thời gian khôi phục ngữ cảnh: đã làm đến đâu, việc nào ưu tiên, bước tiếp theo là gì |
+| C | 1, 2, 5 | Việc soạn nội dung hoặc nhắc lịch lặp lại theo chu kỳ, dễ tốn thời gian thủ công và dễ bỏ sót người nhận |
 
 ### 2.3. Opportunity Solution Tree rút gọn
 
 Gốc là **1 outcome**. Nhánh là **opportunity** (nhu cầu, pain), không phải tính năng hay công cụ.
 
 ```text
-OUTCOME: 
-├── Opportunity A: 
-├── Opportunity B: 
-└── Opportunity C: 
+OUTCOME: Giảm thời gian tra cứu, khôi phục ngữ cảnh và soạn việc lặp lại mà người làm phải bỏ ra mỗi ngày
+├── Opportunity A: Tìm đúng thông tin nhanh từ nhiều nguồn rời rạc (cluster A)
+├── Opportunity B: Khôi phục trạng thái công việc và ưu tiên nhanh khi chuyển việc hoặc bắt đầu ngày (cluster B)
+└── Opportunity C: Soạn nội dung và nhắc việc lặp lại không bỏ sót người nhận (cluster C)
 ```
 
 Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 
--
+- Chưa có ý nào bị loại ở bước này; sẽ bổ sung khi nhóm thảo luận.
 
 ### 2.4. Chấm điểm shortlist (1–5)
 
 | Candidate | Actor rõ | Quy trình rõ | Pain có bằng chứng | Impact đo được | Vừa sức lab | So sánh được No AI/Rule/Workflow/Agent | Nhóm hiểu domain | Tổng |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| | | | | | | | | |
-| | | | | | | | | |
-| | | | | | | | | |
+| Quân — dạy tiểu học, tương tác và hiệu ứng vui nhộn cho bài giảng (#1) | 5 | 4 | 3 | 3 | 3 | 4 | 3 | 25 |
+| Huy — gợi ý trả lời câu hỏi Fanpage/Messenger tuyển sinh (#4) | 4 | 4 | 3 | 3 | 3 | 4 | 3 | 24 |
+| Hoàng — quay lại dự án sau khi bị chuyển việc (#7) | 4 | 4 | 3 | 2 | 5 | 5 | 5 | 28 |
+| Dũng — chọn tài liệu tự học HTML/CSS phù hợp trình độ (#10) | 5 | 4 | 3 | 3 | 4 | 4 | 4 | 27 |
+
+_Điểm nháp do mình suy ra từ các card cá nhân; nhóm cần chấm lại theo thang 1–5 trước khi chốt._
 
 **Candidate được chọn:**
 
