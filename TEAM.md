@@ -9,15 +9,34 @@
 ## Thành viên
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
+<<<<<<< HEAD
+| --: | --------- | ---- | ------------------ | ---------------- |
+|   1 |           |      |                    |                  |
+|   2 |           |      |                    |                  |
+|   3 |           |      |                    |                  |
+|   4 |           |      |                    |                  |
+=======
 |---:|---|---|---|---|
 | 1 | Lê Hồng Quân | 2A202603705 | Thành Viên Đưa Ý Tưởng Card, Ghi Chép, Viết Problem Statement | LeHongQuanMarble |
 | 2 | Đào Huy Hoàng | 2A202603451 | Người phản biện chính, Điều phối thời gian | hoangit03 |
 | 3 | Bùi Quang Huy | 2A202603469 | Phụ trách kiểm chứng (phỏng vấn/survey) | harveybui888-max |
 | 4 | Hồ Văn Dũng | 2A202603458 | Vẽ quy trình, đóng góp problem | DungZai |
+>>>>>>> 5b3c0eaced9c2fa250fe6f4bbe9507816c7ba88c
 
 
 ## Phân công theo checkpoint
 
+<<<<<<< HEAD
+| Checkpoint                                 | Người chính | Người hỗ trợ | Sản phẩm                                       |
+| ------------------------------------------ | ----------- | ------------ | ---------------------------------------------- |
+| CP3 — Hội tụ nhóm                          |             |              | Cluster, cây OST, bảng chấm điểm               |
+| CP4 — Kiểm chứng                           |             |              | Assumption map, snapshot hoặc survey           |
+| CP4 — Research                             |             |              | Bảng research có link                          |
+| CP5 — Quy trình trước/sau                  |             |              | Quy trình + bảng before/after                  |
+| CP5 — Problem Statement v0                 |             |              | Problem Statement v0                           |
+| CP6 — Mức can thiệp + Problem Statement v1 |             |              | Ma trận, AI Canvas, eval, Problem Statement v1 |
+| CP6 — Quyết định                           |             |              | 4 rủi ro + Go/Not Yet/No-Go                    |
+=======
 | Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
 |---|---|---|---|
 | CP3 — Hội tụ nhóm |Đào Huy Hoàng | Bùi Quang Huy| Cluster, cây OST, bảng chấm điểm |
@@ -27,6 +46,7 @@
 | CP5 — Problem Statement v0 |Lê Hồng Quân |Hồ Văn Dũng | Problem Statement v0 |
 | CP6 — Mức can thiệp + Problem Statement v1 | Lê Hồng Quân| Đào Huy Hoàng | Ma trận, AI Canvas, eval, Problem Statement v1 |
 | CP6 — Quyết định | Đào Huy Hoàng| Lê Hồng Quân| 4 rủi ro + Go/Not Yet/No-Go |
+>>>>>>> 5b3c0eaced9c2fa250fe6f4bbe9507816c7ba88c
 
 ## Cá nhân
 
@@ -102,3 +122,32 @@
 **Điều mình học được từ phần nhóm:**
 
 - Cần mô tả đúng actor, pain point, bottleneck và có số liệu trước khi kết luận một problem đáng giải quyết. AI không mặc nhiên là lựa chọn tốt nhất; nên so sánh với FAQ, rule hoặc quy trình hiện có, đồng thời kiểm chứng nhu cầu và chất lượng dữ liệu với người dùng.
+
+### Hồ Văn Dũng-2A202603458
+
+**Phần việc phụ trách:**
+
+- CP1: xây dựng bảng scan 6 vấn đề về tìm và sử dụng tài liệu tự học lập trình từ trải nghiệm học HTML/CSS, Python và Java.
+- CP2: chọn top 3 Problem Card, mô tả quy trình nháp và ghi nhận phản biện của AI.
+- CP3–CP6 — giả định cần xác nhận: tham gia phản biện candidate, góp ý quy trình chuẩn bị bài giảng và so sánh phương án dùng template với Workflow có AI.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Xây dựng nội dung báo cáo cá nhân gồm bảng scan và ba Problem Card: chọn tài liệu phù hợp với trình độ; xác định kiến thức và từ khóa từ mục tiêu cụ thể; tìm đúng bài hoặc đoạn trong khóa học dài.
+- Điều chỉnh nội dung sau khi trao đổi với AI: gộp các vấn đề trùng nhau, làm rõ Job Story và phân biệt số liệu ước lượng với thời gian đã đo.
+- Giả định cần xác nhận: đặt câu hỏi về bước tốn thời gian nhất trong 30–120 phút chuẩn bị bài giảng, giúp nhóm xác định thông tin cần hỏi thêm từ giáo viên.
+- Giả định cần xác nhận: góp ý bổ sung bước giáo viên kiểm tra kiến thức, độ phù hợp của hoạt động và chạy thử bài giảng trước khi sử dụng.
+- Giả định cần xác nhận: đề xuất so sánh template có sẵn với Workflow có AI, tính cả thời gian giáo viên kiểm tra và chỉnh sửa.
+- Giả định cần xác nhận: đề xuất thử nghiệm trên một bài học trước khi mở rộng, đánh giá đồng thời thời gian chuẩn bị và chất lượng bài giảng.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- `report/individual/2A202603458_HoVanDung.md`, mục 2–3: đối chiếu với bản CP1–CP2 mới nhất đã lưu.
+- Các đóng góp nhóm giả định ở trên chưa có bằng chứng xác nhận; bổ sung đúng mục trong `report/team/group_report.md` sau khi kiểm tra.
+- Commit cá nhân: bổ sung mã commit thực tế sau khi commit báo cáo.
+
+**Điều mình học được từ phần nhóm:**
+
+- Gợi ý để tự diễn đạt theo trải nghiệm: cần xác định người gặp vấn đề, bước nghẽn và bằng chứng trước khi chọn giải pháp.
+- Gợi ý để tự diễn đạt theo trải nghiệm: thời gian AI tạo bản nháp chưa phản ánh tổng thời gian hoàn thiện; cần tính cả công sức kiểm tra và sửa.
+- Gợi ý để tự diễn đạt theo trải nghiệm: template hoặc cách tổ chức quy trình tốt hơn có thể đã đáp ứng nhu cầu; lựa chọn AI cần được kiểm chứng bằng thử nghiệm.
