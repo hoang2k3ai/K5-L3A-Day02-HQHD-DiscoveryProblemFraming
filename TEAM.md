@@ -37,20 +37,45 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
 
-### HoVaTen-MSSV
+### Lê Hồng Quân-2A202603705
 
 **Phần việc phụ trách:**
 
--
+- Phần cá nhân CP1–CP2: scan 10 problem, chọn top 3 Problem Card và quy trình nháp
+- Pitch 3 card ở CP3 và phản biện bài của bạn khác _(bổ sung nếu có phần việc khác)_
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
 
--
+- Báo cáo cá nhân `report/individual/2A202603705_LeHongQuan.md`: scan, 3 Problem Card, quy trình nháp
+- Đưa 3 Problem Card của mình vào bảng pitch (`group_report.md` mục 2.1, dòng 1–3)
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
--
+- `report/team/group_report.md` mục 2.1, dòng 1–3
+- `report/individual/2A202603705_LeHongQuan.md`
+- Commit `2e03d72` (báo cáo cá nhân)
 
 **Điều mình học được từ phần nhóm:**
 
--
+- _[Bạn điền]_
+
+### Đào Huy Hoàng-2A202603451
+
+**Phần việc phụ trách:**
+
+- CP1: scan 5 problem từ trải nghiệm công việc và chương trình VinUni.
+- CP2: chọn top 3 Problem Card, mô tả quy trình nháp và ghi nhận phản biện.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Hoàn thiện báo cáo cá nhân gồm bảng scan CP1, 3 Problem Card CP2 và các quy trình nháp.
+- Dùng trải nghiệm thực tế về theo dõi nhiều dự án, quay lại dự án sau khi chuyển việc và theo dõi thông báo Discord làm cơ sở cho các candidate.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- `report/individual/2A202603451_DaoHuyHoang.md`, mục 2–3.
+- Commit cá nhân: _[ghi mã commit sau khi commit file]_.
+
+**Điều mình học được từ phần nhóm:**
+
+- _[Tự bổ sung sau CP3–CP6 bằng trải nghiệm thực tế.]_
