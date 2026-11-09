@@ -1,4 +1,4 @@
-# Team HQHD
+# Team
 
 ## Thông tin nhóm
 
@@ -9,34 +9,15 @@
 ## Thành viên
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
-<<<<<<< HEAD
-| --: | --------- | ---- | ------------------ | ---------------- |
-|   1 |           |      |                    |                  |
-|   2 |           |      |                    |                  |
-|   3 |           |      |                    |                  |
-|   4 |           |      |                    |                  |
-=======
 |---:|---|---|---|---|
 | 1 | Lê Hồng Quân | 2A202603705 | Thành Viên Đưa Ý Tưởng Card, Ghi Chép, Viết Problem Statement | LeHongQuanMarble |
 | 2 | Đào Huy Hoàng | 2A202603451 | Người phản biện chính, Điều phối thời gian | hoangit03 |
 | 3 | Bùi Quang Huy | 2A202603469 | Phụ trách kiểm chứng (phỏng vấn/survey) | harveybui888-max |
 | 4 | Hồ Văn Dũng | 2A202603458 | Vẽ quy trình, đóng góp problem | DungZai |
->>>>>>> 5b3c0eaced9c2fa250fe6f4bbe9507816c7ba88c
 
 
 ## Phân công theo checkpoint
 
-<<<<<<< HEAD
-| Checkpoint                                 | Người chính | Người hỗ trợ | Sản phẩm                                       |
-| ------------------------------------------ | ----------- | ------------ | ---------------------------------------------- |
-| CP3 — Hội tụ nhóm                          |             |              | Cluster, cây OST, bảng chấm điểm               |
-| CP4 — Kiểm chứng                           |             |              | Assumption map, snapshot hoặc survey           |
-| CP4 — Research                             |             |              | Bảng research có link                          |
-| CP5 — Quy trình trước/sau                  |             |              | Quy trình + bảng before/after                  |
-| CP5 — Problem Statement v0                 |             |              | Problem Statement v0                           |
-| CP6 — Mức can thiệp + Problem Statement v1 |             |              | Ma trận, AI Canvas, eval, Problem Statement v1 |
-| CP6 — Quyết định                           |             |              | 4 rủi ro + Go/Not Yet/No-Go                    |
-=======
 | Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
 |---|---|---|---|
 | CP3 — Hội tụ nhóm |Đào Huy Hoàng | Bùi Quang Huy| Cluster, cây OST, bảng chấm điểm |
@@ -46,7 +27,6 @@
 | CP5 — Problem Statement v0 |Lê Hồng Quân |Hồ Văn Dũng | Problem Statement v0 |
 | CP6 — Mức can thiệp + Problem Statement v1 | Lê Hồng Quân| Đào Huy Hoàng | Ma trận, AI Canvas, eval, Problem Statement v1 |
 | CP6 — Quyết định | Đào Huy Hoàng| Lê Hồng Quân| 4 rủi ro + Go/Not Yet/No-Go |
->>>>>>> 5b3c0eaced9c2fa250fe6f4bbe9507816c7ba88c
 
 ## Cá nhân
 
