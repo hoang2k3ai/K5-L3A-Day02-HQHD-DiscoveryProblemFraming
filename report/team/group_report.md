@@ -21,9 +21,9 @@
 | 1 | Lê Hồng Quân (card muốn pitch nhất) | Khi chuẩn bị bài giảng tiểu học, giáo viên muốn có tương tác và hiệu ứng vui nhộn đúng nội dung bài, để học sinh nhớ bài và tham gia hơn | Giáo viên tiểu học; học sinh lớp nhỏ | Bước 3–5 (dựng và chỉnh hiệu ứng): 30 phút với bài dễ, 2 giờ với bài chi tiết | Hỏi về áp dụng ở đâu trong thực tế (người hỏi: _[bổ sung]_) |
 | 2 | Lê Hồng Quân | Khi sáng thứ Hai nhận báo cáo tuần về con, phụ huynh muốn biết con đã học gì và còn yếu chỗ nào, để hỏi và động viên con đúng lúc | Phụ huynh; giáo viên viết nhận xét | Bước 4: soạn nhận xét 2 phút mỗi em, lớp 40 em khoảng 1 giờ 30 phút | _[chưa có câu hỏi]_ |
 | 3 | Lê Hồng Quân | Khi mỗi sáng báo cáo với team lead, tôi muốn có sẵn tóm tắt việc đã xong, đang làm và bị chặn, để không phải nhớ lại | Bản thân (người báo cáo); team lead | Bước 1–3: nhớ và đối chiếu, ước 60 phút/ngày (chưa đo) | _[chưa có câu hỏi]_ |
-| 4 | | | | | |
-| 5 | | | | | |
-| 6 | | | | | |
+| 4 | Bùi Quang Huy | Khi ứng viên hoặc học viên hỏi qua Messenger/bình luận Fanpage, tôi muốn có câu trả lời gợi ý dựa trên thông tin đã xác thực, để phản hồi nhanh và nhất quán | Nhân viên trực Fanpage/tư vấn tuyển sinh; ứng viên và học viên | Bước 3: tra cứu FAQ/tài liệu hoặc hỏi điều phối viên, khoảng 5 phút/câu khi thông tin thay đổi | Nếu thông tin tuyển sinh hoặc lịch học thay đổi liên tục, làm sao đảm bảo AI chỉ gợi ý câu trả lời từ nguồn đã xác thực và không cung cấp thông tin cũ? |
+| 5 | Bùi Quang Huy | Khi sắp có buổi học hoặc lịch học thay đổi, tôi muốn nhận nhắc nhở kịp thời về thông tin buổi học, để tham gia đầy đủ và chuẩn bị tốt | Học viên; điều phối viên lớp học | Bước 3–4: lấy danh sách/kênh nhận và gửi nhắc thủ công; dễ bỏ sót lớp khi lịch thay đổi sát giờ | Nếu lịch học thay đổi sát giờ hoặc học viên không nhận được thông báo, hệ thống làm sao phát hiện và đảm bảo không bỏ sót người cần nhắc?|
+| 6 | Bùi Quang Huy | Khi chủ xe VinFast báo lỗi qua email, hotline hoặc ứng dụng, tôi muốn xem lịch sử tương tác và trạng thái xử lý tập trung, để khách không phải cung cấp lại thông tin và tránh tạo ticket trùng | Nhân viên CSKH VinFast; bộ phận kỹ thuật; cố vấn dịch vụ | Bước 3–4: tra cứu lịch sử và đối chiếu ticket từ nhiều nguồn, ước tính 8–12 phút/yêu cầu | Nếu dữ liệu CSKH VinFast nằm ở nhiều hệ thống khác nhau và không có mã định danh thống nhất, làm sao hợp nhất chính xác lịch sử tương tác mà không ghép nhầm khách hàng hoặc tạo ticket trùng? |
 | 7 | | | | | |
 | 8 | | | | | |
 | 9 | | | | | |
