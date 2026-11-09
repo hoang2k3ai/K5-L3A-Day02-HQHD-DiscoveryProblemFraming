@@ -1,28 +1,32 @@
-# Team
-
-> Điền file này trên repo chung do nhóm trưởng fork. Nhóm điền phần **Thông tin nhóm** và **Thành viên**. Mỗi người tự điền phần của mình trong **Cá nhân**. Không copy file này sang repo khác.
+# Team HQHD
 
 ## Thông tin nhóm
 
-- Tên nhóm:
-- Candidate problem nhóm chọn (1 câu):
-- Quyết định cuối (Go / Not Yet / No-Go):
+- Tên nhóm: HQHD
+- Candidate problem nhóm chọn (1 câu): Giáo viên tiểu học cần tạo tương tác và hiệu ứng vui nhộn đúng nội dung từng bài giảng nhanh hơn, để học sinh lớp nhỏ nhớ bài và tham gia hơn.
+- Quyết định cuối (Go / Not Yet / No-Go): Go
 
 ## Thành viên
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
+<<<<<<< HEAD
 | --: | --------- | ---- | ------------------ | ---------------- |
 |   1 |           |      |                    |                  |
 |   2 |           |      |                    |                  |
 |   3 |           |      |                    |                  |
 |   4 |           |      |                    |                  |
+=======
+|---:|---|---|---|---|
+| 1 | Lê Hồng Quân | 2A202603705 | Thành Viên Đưa Ý Tưởng Card, Ghi Chép, Viết Problem Statement | LeHongQuanMarble |
+| 2 | Đào Huy Hoàng | 2A202603451 | Người phản biện chính, Điều phối thời gian | hoangit03 |
+| 3 | Bùi Quang Huy | 2A202603469 | Phụ trách kiểm chứng (phỏng vấn/survey) | harveybui888-max |
+| 4 | Hồ Văn Dũng | 2A202603458 | Vẽ quy trình, đóng góp problem | DungZai |
+>>>>>>> 5b3c0eaced9c2fa250fe6f4bbe9507816c7ba88c
 
-Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
-
-Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối thời gian, ghi chép, người phản biện chính, phụ trách kiểm chứng (phỏng vấn/survey), phụ trách research, vẽ quy trình, viết Problem Statement.
 
 ## Phân công theo checkpoint
 
+<<<<<<< HEAD
 | Checkpoint                                 | Người chính | Người hỗ trợ | Sản phẩm                                       |
 | ------------------------------------------ | ----------- | ------------ | ---------------------------------------------- |
 | CP3 — Hội tụ nhóm                          |             |              | Cluster, cây OST, bảng chấm điểm               |
@@ -32,36 +36,47 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 | CP5 — Problem Statement v0                 |             |              | Problem Statement v0                           |
 | CP6 — Mức can thiệp + Problem Statement v1 |             |              | Ma trận, AI Canvas, eval, Problem Statement v1 |
 | CP6 — Quyết định                           |             |              | 4 rủi ro + Go/Not Yet/No-Go                    |
+=======
+| Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
+|---|---|---|---|
+| CP3 — Hội tụ nhóm |Đào Huy Hoàng | Bùi Quang Huy| Cluster, cây OST, bảng chấm điểm |
+| CP4 — Kiểm chứng | Bùi Quang Huy| Đào Huy Hoàng| Assumption map, snapshot hoặc survey |
+| CP4 — Research | Bùi Quang Huy| Hồ Văn Dũng| Bảng research có link |
+| CP5 — Quy trình trước/sau | Hồ Văn Dũng| Lê Hồng Quân| Quy trình + bảng before/after |
+| CP5 — Problem Statement v0 |Lê Hồng Quân |Hồ Văn Dũng | Problem Statement v0 |
+| CP6 — Mức can thiệp + Problem Statement v1 | Lê Hồng Quân| Đào Huy Hoàng | Ma trận, AI Canvas, eval, Problem Statement v1 |
+| CP6 — Quyết định | Đào Huy Hoàng| Lê Hồng Quân| 4 rủi ro + Go/Not Yet/No-Go |
+>>>>>>> 5b3c0eaced9c2fa250fe6f4bbe9507816c7ba88c
 
 ## Cá nhân
-
-Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
 
 ### Lê Hồng Quân-2A202603705
 
 **Phần việc phụ trách:**
 
 - Phần cá nhân CP1–CP2: scan 10 problem, chọn top 3 Problem Card và quy trình nháp
-- Pitch 3 card ở CP3 và phản biện bài của bạn khác _(bổ sung nếu có phần việc khác)_
-- Pitch card #1 (giáo viên tiểu học) làm candidate chính của nhóm; đóng góp PS v0–v1 và mức can thiệp Workflow _(bạn xác nhận phần tự làm)_
+- Pitch 3 card ở CP3 và phản biện bài của bạn khác
+- Pitch card #1 (giáo viên tiểu học) làm candidate chính của nhóm
+- Đóng góp Problem Statement v0–v1 và đề xuất mức can thiệp Workflow
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
 
-- Báo cáo cá nhân `report/individual/2A202603705_LeHongQuan.md`: scan, 3 Problem Card, quy trình nháp; mục 4 (tham gia nhóm) đã điền; mục 5 (dùng AI) điền một phần
+- Báo cáo cá nhân `report/individual/2A202603705_LeHongQuan.md`: 10 scan, 3 Problem Card, quy trình nháp, mục 4 và mục 5
 - Đưa 3 Problem Card của mình vào bảng pitch (`group_report.md` mục 2.1, dòng 1–3)
 - Candidate được nhóm chọn: card #1 (bỏ phiếu 3/4), ghi ở `group_report.md` mục 2.4
-- Quyết định nhóm trong `group_report.md` mục 8.2 hiện là Go (chưa thống nhất với kết quả bỏ phiếu Yet 4/4 trước đó)
+- Quyết định trong `group_report.md` mục 8.2 hiện là Go (chưa khớp với bỏ phiếu Yet 4/4)
 
-**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+**Bằng chứng:**
 
 - `report/team/group_report.md` mục 2.1 dòng 1–3, mục 2.4, mục 3.2, mục 5, mục 6.2, mục 7, mục 8.2
 - `report/individual/2A202603705_LeHongQuan.md`
-- Commit `2e03d72` (báo cáo cá nhân), `1764b33` (bảng 2.4), `108a38c` (group report đầy đủ), `733f035` (cập nhật mục 4 cá nhân và TEAM.md)
-- Chưa commit: chỉnh sửa mục 8.2 và mục 2.4 trong `group_report.md`, các mục cá nhân đã sửa sau `733f035`
+- Commit `2e03d72` (báo cáo cá nhân), `1764b33` (bảng 2.4), `108a38c` (group report đầy đủ), `733f035` (mục 4 cá nhân và TEAM.md), `8d512d0` (quyết định Go, sửa mục 2.4, cập nhật TEAM.md)
 
 **Điều mình học được từ phần nhóm:**
 
-- _[Bạn điền]_
+- Nhận ra mình dễ nhảy sang giải pháp khi chưa hiểu gốc vấn đề. Khi viết Problem Statement, phải tách triệu chứng với nguyên nhân gốc rễ trước khi chọn AI.
+- Khi phản biện, cần đưa ra câu hỏi cụ thể (số liệu, tiêu chí đo) thay vì nhận xét chung.
+- Dữ liệu phỏng vấn giúp đổi cách nhìn: điều mình tưởng là nguyên nhân chính có thể chỉ là biểu hiện.
 
 ### Đào Huy Hoàng-2A202603451
 

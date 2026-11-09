@@ -47,7 +47,7 @@
 | Quy trình hiện tại (3–7 bước) | 1. Đọc giáo án, chọn nội dung cần minh họa. 2. Tìm hình, âm thanh phù hợp (web, kho cá nhân). 3. Dựng slide trên PPT hoặc CapCut. 4. Thêm hiệu ứng, chuyển cảnh, âm thanh. 5. Thử trên máy, sửa lỗi hiển thị. 6. Trình chiếu trên lớp. |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3–5 (dựng và chỉnh hiệu ứng). trung bình 30 phút với bài dễ, 2 tiếng với bài khá chi tiết|
 | Impact (nếu không giải thì sao) | Giáo viên bỏ qua tương tác, dùng slide tĩnh; bài học kém hấp dẫn với học sinh nhỏ; khó mở rộng sang nhiều bài và nhiều môn. |
-| Success metric (baseline → target) | Thời gian làm một tương tác: 30 phút (bài dễ) hoặc 2 giờ (bài chi tiết) → 15 phút . Điểm giáo viên chấm mức "vui, đúng nội dung" (thang 1–5): 3 → ≥4 (baseline chưa khảo sát). Tỷ lệ giáo viên dùng lại tương tác đã tạo: 65% → 95% . |
+| Success metric (baseline → target) | Thời gian làm một tương tác: 30 phút (bài dễ) hoặc 2 giờ (bài chi tiết) → 15 phút. Điểm giáo viên chấm mức "vui, đúng nội dung" (thang 1–5): 3 → ≥4 (baseline chưa khảo sát). Tỷ lệ giáo viên dùng lại tương tác đã tạo: 65% → 95%. |
 | Phương án không dùng AI | Thư viện mẫu theo chủ đề và lứa tuổi, có sẵn bố cục, màu sắc, âm thanh; giáo viên chỉ thay chữ và hình. |
 | Giả thuyết về AI (nếu có) | LLM sinh kịch bản tương tác từ giáo án, rồi dựng bằng thư viện mẫu. Dự án đã có luồng kịch bản → build (Tạo tương tác), nên câu hỏi là chất lượng "vui nhộn" và giọng văn trẻ con có đạt không. |
 | Cảm nhận nhanh | Workflow (AI soạn nháp, giáo viên duyệt và chỉnh) |
@@ -61,7 +61,7 @@ Quy trình nháp hiện tại:
 4. Thêm hiệu ứng, chuyển cảnh, âm thanh
 5. Thử trên máy, sửa lỗi hiển thị
 6. Trình chiếu trên lớp
-Bottleneck: bước 3–5 (số phút từng bước: 30 phút tới 2 giờ)
+Bottleneck: bước 3–5. Thời gian theo phỏng vấn giáo viên (`group_report.md` mục 4.1): bước 2 khoảng 1 phút mỗi ảnh; bước 3 khoảng 30 phút–1 giờ; bước 4 và 5 cộng lại khoảng 2 giờ với bài chi tiết (30 phút với bài dễ). Bước 1 và 6 không tính.
 ```
 
 ### Problem Card #2
@@ -74,7 +74,7 @@ Bottleneck: bước 3–5 (số phút từng bước: 30 phút tới 2 giờ)
 | Quy trình hiện tại (3–7 bước) | 1. Hệ thống gửi báo cáo lúc 7h sáng thứ Hai, chỉ có số giờ học, số ngày học, top 3 sách. 2. Phụ huynh đọc con số. 3. Muốn biết chi tiết thì phải hỏi con hoặc giáo viên. 4. Giáo viên (nếu viết nhận xét) soạn tay từng em hoặc dùng mẫu chung. |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Bước 4: giáo viên soạn nhận xét từng em. 2 phút mỗi em, lớp 40 bạn thì gần 1 tiếng rưỡi |
 | Impact (nếu không giải thì sao) | Phụ huynh thấy báo cáo chỉ là số liệu, mất tin tưởng; giáo viên không đủ thời gian viết nhận xét thật, nên dùng mẫu chung và báo cáo thành vô nghĩa. |
-| Success metric (baseline → target) | Tỷ lệ phụ huynh mở báo cáo: 85% → 95% . Thời gian giáo viên soạn nhận xét mỗi em: 2 phút (ước tính) → giảm 50%. Khảo sát phụ huynh "hiểu con đang học gì" (1–5): 2 → ≥4. |
+| Success metric (baseline → target) | Tỷ lệ phụ huynh mở báo cáo: 85% → 95%. Thời gian giáo viên soạn nhận xét mỗi em: 2 phút (ước tính) → giảm 50%. Khảo sát phụ huynh "hiểu con đang học gì" (1–5): 2 → ≥4. |
 | Phương án không dùng AI | Ghép câu theo luật từ dữ liệu có sẵn: mức Vững, Đạt, Cần giúp; bài đã học; điểm bài kiểm tra gần nhất. Mỗi mức có một câu mẫu đã duyệt. |
 | Giả thuyết về AI (nếu có) | LLM viết 3–4 câu từ dữ liệu có cấu trúc và ghi chú của giáo viên, rồi giáo viên duyệt trước khi gửi. Ràng buộc: chỉ dùng dữ liệu có sẵn, không bịa, dưới khoảng 120 chữ. |
 | Cảm nhận nhanh | Rule (có thể đủ trước), sau đó Workflow (AI soạn, người duyệt) |
@@ -86,7 +86,7 @@ Quy trình nháp hiện tại:
 2. Phụ huynh đọc số liệu
 3. Muốn hiểu con học gì: hỏi con hoặc giáo viên
 4. Giáo viên soạn nhận xét từng em (hoặc dùng mẫu chung)
-Bottleneck: bước 4, 2 phút mỗi em (số phút các bước còn lại: 2 phút)
+Bottleneck: bước 4, 2 phút mỗi em (lớp 40 em khoảng 1 giờ 30 phút) Bước 1,2,3 là bước tự nhiên của phụ huynh.
 ```
 
 ### Problem Card #3
@@ -99,7 +99,7 @@ Bottleneck: bước 4, 2 phút mỗi em (số phút các bước còn lại: 2 p
 | Quy trình hiện tại (3–7 bước) | 1. Nhớ lại hôm qua đã làm gì. 2. Mở commit, PR, board để kiểm tra. 3. Liệt kê việc đã xong, đang làm, bị chặn. 4. Trao đổi với team lead. 5. Team lead hỏi lại hoặc yêu cầu xác nhận trước khi làm tiếp. |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Bước 1–3 (nhớ và đối chiếu). Mỗi ngày sẽ là 1 giờ. |
 | Impact (nếu không giải thì sao) | Mất thời gian mỗi sáng; báo cáo rối; team lead không nắm được tiến độ; việc phải xác nhận lại làm chậm công việc. |
-| Success metric (baseline → target) | Thời gian chuẩn bị daily: 60 phút (ước tính) → ≤10 phút. Số câu team lead hỏi lại mỗi buổi: 50% câu hỏi  → ≤1 câu/buổi. Số việc bị bỏ sót khi đối chiếu với board: 50% → 0 . |
+| Success metric (baseline → target) | Thời gian chuẩn bị daily: 60 phút (ước tính) → ≤10 phút. Số câu team lead hỏi lại mỗi buổi: 50% câu hỏi  → ≤1 câu/buổi. Số việc bị bỏ sót khi đối chiếu với board: 50% → 0. |
 | Phương án không dùng AI | Script đơn giản: git log từ hôm qua, cộng với board.md và issue đã claim, xuất ra danh sách có sẵn ba mục. Bạn chỉnh tay phần ý nghĩa. |
 | Giả thuyết về AI (nếu có) | Agent đọc commit, PR, board, issue, rồi soạn nháp ba mục. Mục nào không chắc chắn thì đánh dấu để bạn xác nhận, không tự kết luận. |
 | Cảm nhận nhanh | Rule trước (script), Agent sau nếu script chưa đủ |
@@ -112,7 +112,7 @@ Quy trình nháp hiện tại:
 3. Liệt kê việc đã xong, đang làm, bị chặn
 4. Trao đổi với team lead
 5. Team lead hỏi lại hoặc yêu cầu xác nhận trước khi làm
-Bottleneck: bước 1–3 (ước 60 phút, cần đo; số phút từng bước: 12)
+Bottleneck: bước 1–3 60 phút mỗi ngày, mỗi bước mất 15 phút.
 ```
 
 ### Card muốn pitch nhất
@@ -174,31 +174,31 @@ Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ ch
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
 
-Tôi nhận ra rằng lắng nghe vấn đề của người khác không chỉ giúp tôi hiểu họ hơn mà còn giúp tôi nhìn lại bản thân, học hỏi từ những trải nghiệm khác nhau và tìm ra hướng phát triển tốt hơn cho mình. Có thêm ý tưởng để áp dụng vào việc giải quyết những vấn đề của chính mình.
+Giúp tôi nhìn lại bản thân, học hỏi từ những trải nghiệm khác nhau và tìm ra hướng phát triển tốt hơn cho mình. Có thêm ý tưởng để áp dụng vào việc giải quyết những vấn đề của chính mình.
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
 
-Có. Trong quá trình thảo luận, đôi lúc nhóm đưa ra giải pháp khá sớm dựa trên những gì mình nghĩ là hợp lý mà chưa phân tích đầy đủ nguyên nhân gốc rễ của vấn đề. Sau đó, nhóm nhận ra cần quay lại xem xét Problem Card, đối chiếu với quy trình thực tế và đặt câu hỏi liệu đây có thực sự là vấn đề khách hàng đang gặp phải hay không. Nhóm cần ưu tiên tìm hiểu vấn đề trước, sau đó mới lựa chọn giải pháp phù hợp thay vì cố gắng tìm vấn đề để áp dụng giải pháp đã nghĩ ra.
+Có. Trong quá trình thảo luận, đôi lúc nhóm đưa ra giải pháp khá sớm dựa trên những gì mình nghĩ là hợp lý mà chưa phân tích đầy đủ nguyên nhân gốc rễ của vấn đề. Sau đó, nhóm nhận ra cần quay lại xem xét Problem Card, đối chiếu với quy trình thực tế và đặt câu hỏi liệu đây có thực sự là vấn đề khách hàng đang gặp phải hay không. 
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
 
-Tôi không thay đổi quan điểm chính sau khi được phản biện vì tôi nhận thấy ý tưởng của mình có tính hợp lý và đã có khả năng áp dụng trong môi trường thực tế. Tuy nhiên, những ý kiến phản biện giúp tôi nhìn nhận thêm các khía cạnh khác, đặc biệt là tính khả thi, phạm vi áp dụng và cách đo lường hiệu quả. Tôi cho rằng không nhất thiết phải thay đổi ý tưởng khi bị phản biện, nhưng cần có cơ sở thực tế và lập luận đủ thuyết phục để bảo vệ quan điểm của mình.
+Tôi không thay đổi quan điểm chính sau khi được phản biện vì tôi nhận thấy ý tưởng của mình có tính hợp lý và đã có khả năng áp dụng trong môi trường thực tế. 
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
 
-Có. Điều khiến tôi bất ngờ là một số vấn đề ban đầu tôi nghĩ là nguyên nhân chính thực chất có thể chỉ là biểu hiện bên ngoài của một vấn đề sâu hơn. Qua quá trình kiểm chứng, tôi nhận ra góc nhìn của người làm sản phẩm đôi khi khác với trải nghiệm thực tế của khách hàng. Điều này giúp tôi hiểu rằng không nên chỉ dựa vào suy đoán cá nhân mà cần có dữ liệu, phỏng vấn và nghiên cứu thực tế để xác định đúng vấn đề cần giải quyết.
+Có. Điều khiến tôi bất ngờ là một số vấn đề ban đầu tôi nghĩ là nguyên nhân chính thực chất có thể chỉ là biểu hiện bên ngoài của một vấn đề sâu hơn.
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
 
-Điều khó nhất đối với tôi là phân biệt giữa triệu chứng và nguyên nhân gốc rễ của vấn đề. Có những vấn đề khi phân tích trên lý thuyết, tôi nghĩ rằng mình đã xác định đúng nguyên nhân, nhưng khi áp dụng vào sản phẩm thực tế thì chưa chắc đã chính xác. Vì vậy, QC/BA cần thực sự trao đổi với khách hàng, tìm hiểu quy trình nghiệp vụ và kiểm chứng các giả định để xác định nguyên nhân gốc rễ. Một Problem Statement tốt không chỉ mô tả điều đang xảy ra mà còn phải phản ánh đúng vấn đề cần giải quyết và có cơ sở thực tế.
+Điều khó nhất đối với tôi là phân biệt giữa triệu chứng và nguyên nhân gốc rễ của vấn đề. Có những vấn đề khi phân tích trên lý thuyết, tôi nghĩ rằng mình đã xác định đúng nguyên nhân, nhưng khi áp dụng vào sản phẩm thực tế thì chưa chắc đã chính xác. 
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
 
-Nếu được làm lại, tôi sẽ xây dựng thêm nhiều Problem Card chất lượng hơn, đồng thời phân tích sâu và kỹ hơn Top 3 Problem Card được lựa chọn. Tôi cũng sẽ chú trọng đến việc xác định các chỉ số đo lường (Metric) với phạm vi rộng hơn để đánh giá vấn đề một cách toàn diện và khách quan. Ngoài ra, tôi sẽ phản biện nhóm mạnh hơn về tính chính xác của nguyên nhân gốc rễ, độ tin cậy của dữ liệu và khả năng áp dụng vào môi trường thực tế. Mục tiêu là đảm bảo vấn đề được lựa chọn thực sự có giá trị và kết quả đánh giá có cơ sở thuyết phục nhất
+Nếu được làm lại, tôi sẽ xây dựng thêm nhiều Problem Card chất lượng hơn, đồng thời phân tích sâu và kỹ hơn Top 3 Problem Card được lựa chọn. Tôi cũng sẽ chú trọng đến việc xác định các chỉ số đo lường (Metric) với phạm vi rộng hơn để đánh giá vấn đề một cách toàn diện và khách quan.
 
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
 
-Đầu tiên, nhóm xác định Problem là vấn đề thực tế mà khách hàng hoặc người dùng đang gặp phải, thay vì chỉ tập trung vào những triệu chứng bên ngoài. Tiếp theo, nhóm phân tích quy trình (Process) để hiểu vấn đề xuất hiện ở bước nào, nguyên nhân từ đâu và ảnh hưởng đến những đối tượng nào. Sau đó, nhóm lựa chọn Metric phù hợp để đo lường mức độ nghiêm trọng và đánh giá hiệu quả khi giải quyết vấn đề. Tiếp theo, nhóm xác định Boundary nhằm giới hạn phạm vi xử lý, làm rõ những gì nằm trong và ngoài phạm vi của bài toán. Dựa trên đặc điểm vấn đề, nhóm đánh giá mức độ can thiệp của AI, xác định công việc nào AI có thể hỗ trợ, công việc nào cần con người kiểm soát hoặc ra quyết định. Cuối cùng, nhóm đưa ra quyết định về việc có nên ứng dụng AI hay không, lựa chọn hướng giải quyết phù hợp và đảm bảo tính khả thi trong môi trường thực tế. Qua đó, tôi hiểu rằng không phải vấn đề nào cũng cần AI, quan trọng nhất là xác định đúng vấn đề và lựa chọn giải pháp mang lại giá trị thực sự.
+Đầu tiên, nhóm xác định Problem là vấn đề thực tế mà khách hàng hoặc người dùng đang gặp phải, thay vì chỉ tập trung vào những triệu chứng bên ngoài. Tiếp theo, nhóm phân tích quy trình (Process) để hiểu vấn đề xuất hiện ở bước nào, nguyên nhân từ đâu và ảnh hưởng đến những đối tượng nào. Sau đó, nhóm lựa chọn Metric phù hợp để đo lường mức độ nghiêm trọng và đánh giá hiệu quả khi giải quyết vấn đề. Tiếp theo, nhóm xác định Boundary nhằm giới hạn phạm vi xử lý, làm rõ những gì nằm trong và ngoài phạm vi của bài toán. Dựa trên đặc điểm vấn đề, nhóm đánh giá mức độ can thiệp của AI, xác định công việc nào AI có thể hỗ trợ, công việc nào cần con người kiểm soát hoặc ra quyết định.
 
 ---
 
