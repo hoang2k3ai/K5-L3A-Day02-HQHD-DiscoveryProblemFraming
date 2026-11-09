@@ -136,16 +136,16 @@ Tổng theo lần đo: khoảng 15 phút mỗi lần kiểm tra, khớp CP1 (kho
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | Chọn pitch card Quân #1: tăng tương tác trong bài giảng tiểu học. | Được đưa vào shortlist chấm điểm. |
+| Pitch Problem Card | Chọn pitch card Quân #1 về tăng tương tác trong bài giảng tiểu học. | Card được đưa vào shortlist chấm điểm. |
 | Phản biện bài của bạn khác | Hỏi Dũng về nguồn dữ liệu; hỏi Quân phần nào tích hợp LLM. | Dũng bổ sung tài liệu; Quân làm rõ vị trí tích hợp LLM. |
-| Nhận phản biện | Dũng hỏi plan, log/task và commit đã đủ chưa. | Tôi xác nhận các nguồn này đủ cho candidate của mình. |
-| Gom cluster / cây OST | Cùng nhóm phân tích và gom 12 candidate thành 3 nhóm: tra cứu thông tin (A), khôi phục ngữ cảnh (B), nội dung/nhắc việc lặp lại (C). | Candidate dự án của tôi nằm ở cluster B. Nhóm lập OST với outcome giảm thời gian tra cứu, khôi phục ngữ cảnh và làm việc lặp lại. |
-| Chọn candidate problem | Tham gia thảo luận các candidate sau khi gom nhóm. | Candidate của tôi được đưa vào shortlist và chấm 28 điểm; báo cáo nhóm chưa ghi candidate cuối cùng. |
-| Kiểm chứng / research | Chưa có dữ kiện cụ thể về đóng góp cá nhân trong tài liệu hiện tại. | Cần bổ sung nếu tôi đã phỏng vấn, làm survey hoặc research nguồn. |
-| Quy trình nhóm | Đóng góp thông tin cho quy trình hiện tại và quy trình tương lai. | Bổ sung/chỉnh các mô tả quy trình; báo cáo nhóm mục CP5 hiện chưa ghi chi tiết. |
-| Problem Statement | Tham gia xác định actor, input và output cho CP5. | Đóng góp vào phần khung Problem Statement; báo cáo nhóm hiện chưa điền bản v0. |
-| Mức can thiệp AI | Chưa có dữ kiện cụ thể về đóng góp cá nhân trong tài liệu hiện tại. | Cần bổ sung nếu tôi đã tham gia so sánh No AI / Rule / Workflow / Agent hoặc AI Canvas. |
-| Quyết định | Chưa có dữ kiện cụ thể về đóng góp cá nhân trong tài liệu hiện tại. | Cần bổ sung nếu tôi đã tham gia đánh giá rủi ro hoặc thống nhất Go / Not Yet / No-Go. |
+| Nhận phản biện | Dũng hỏi liệu plan, log/task và commit đã đủ chưa. | Tôi xác nhận các nguồn này đủ cho candidate của mình. |
+| Gom cluster / cây OST | Cùng nhóm gom 12 candidate thành 3 cluster: tra cứu thông tin, khôi phục ngữ cảnh, và nội dung/nhắc việc lặp lại. | Candidate của tôi nằm ở cluster B; nhóm xác định 3 opportunity tương ứng trong OST. |
+| Chọn candidate problem | Tham gia chấm shortlist và thảo luận các candidate. | Candidate #7 của tôi đạt 25 điểm; nhóm chọn card Quân #1 với 3/4 phiếu. |
+| Kiểm chứng / research | Cùng nhóm phỏng vấn giáo viên, bấm giờ bài soạn và tìm công cụ tương tự. | Nhóm ghi nhận 5 giáo viên, 3 bài soạn; research cho thấy đã có công cụ hỗ trợ một số bước. |
+| Quy trình nhóm | Góp ý quy trình hiện tại/tương lai và các bước cần có. | Nhóm xác định bottleneck ở bước dựng/chỉnh hiệu ứng (3–5); quy trình tương lai có AI soạn nháp, giáo viên duyệt và phương án quay về thư viện mẫu. |
+| Problem Statement | Tham gia xác định actor, input và output. | Nhóm hoàn thiện v0–v1; v1 thêm điểm AI can thiệp, boundary về duyệt nội dung/bản quyền và metric chất lượng. |
+| Mức can thiệp AI | Cùng nhóm so sánh No AI, Rule, Workflow và Agent. | Nhóm chọn Workflow 4/4: AI soạn nháp, giáo viên duyệt. |
+| Quyết định | Tham gia thảo luận rủi ro và pilot. | Nhóm quyết định Go, thử nhỏ với 2–3 giáo viên, 1 môn, 4 bài; có ngưỡng dừng sau 4 tuần. |
 
 ---
 
@@ -155,10 +155,10 @@ Tổng theo lần đo: khoảng 15 phút mỗi lần kiểm tra, khớp CP1 (kho
 |---|---|---|---|---|
 | CP1 Scan | Gợi ý góc nhìn và diễn đạt Job Story. | Giúp sắp xếp các pain thành candidate. | AI không thể xác nhận trải nghiệm hay số liệu của tôi. | Giữ ý khớp trải nghiệm; tự xác nhận bằng chứng. |
 | CP2 Problem Card | Phản biện card, bottleneck, metric và quy trình. | Phát hiện trường thiếu và điểm chưa nhất quán. | AI hiểu nhầm 15 phút Discord là mỗi ngày. | Làm rõ 15 phút mỗi lần, khoảng 2 tiếng/lần; giữ “dự án X” làm tên ẩn danh. |
-| CP4 Research | Chưa ghi nhận việc dùng AI cho research CP4; cập nhật sau khi hoàn thành checkpoint. | — | — | — |
-| CP5 Quy trình | Chưa ghi nhận việc dùng AI để dựng/sửa quy trình CP5; cập nhật sau khi hoàn thành checkpoint. | — | — | — |
-| CP5–6 Problem Statement | Chưa ghi nhận việc dùng AI để phản biện Problem Statement; cập nhật sau khi hoàn thành checkpoint. | — | — | — |
-| CP6 Mức can thiệp / quyết định | Chưa ghi nhận việc dùng AI ở CP6; cập nhật sau khi hoàn thành checkpoint. | — | — | — |
+| CP4 Research | Cùng nhóm dùng AI gợi ý công cụ tương tự và hướng research. | Giúp lập danh sách công cụ để đối chiếu theo bước quy trình. | Gợi ý có thể sai hoặc dựa trên nguồn quảng bá/chưa kiểm chứng. | Tự mở nguồn, kiểm tra nội dung và ghi rõ hạn chế của từng nguồn trong bảng research. |
+| CP5 Quy trình | Cùng nhóm dùng AI hỗ trợ phác sơ đồ quy trình trước/sau. | Giúp trình bày thứ tự bước và điểm giáo viên duyệt. | Sơ đồ có thể gộp bước hoặc dùng thời lượng chưa có căn cứ. | Đối chiếu với quy trình giáo viên, giữ bottleneck ở bước 3–5 và ghi thời gian kỳ vọng riêng với thời gian đã đo. |
+| CP5–6 Problem Statement | Cùng nhóm dùng AI phản biện độ rõ của problem, metric và boundary. | Giúp nhận ra metric cần đo cả thời gian lẫn chất lượng đầu ra. | Gợi ý chung chung chưa có baseline hoặc chưa gắn với dữ liệu kiểm chứng. | Nhóm tự chốt v0–v1; thêm cách đo, bước giáo viên duyệt và ranh giới nội dung/bản quyền. |
+| CP6 Mức can thiệp / quyết định | Cùng nhóm rà soát các mức No AI / Rule / Workflow / Agent và rủi ro. | Giúp so sánh mức tự động hóa và điểm cần con người kiểm tra. | Không dùng khuyến nghị AI thay cho bằng chứng hay quyết định nhóm. | Nhóm tự chọn Workflow, quyết định Go và pilot giới hạn dựa trên thảo luận/rủi ro. |
 
 ---
 
@@ -172,17 +172,27 @@ Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ ch
 Tôi học được các đứng ở góc nhìn khác đề nhìn vấn đề mà họ mắc phải và cách xử lý dưới góc nhìn của các thành viên trong team đã giải quyết và học được cách các bạn đưa AI vào hệ thống ở góc nhìn của họ để giải quyết bài toán
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
+
 Nhóm chúng tôi các bạn thường nhìn vấn đề và hiểu vấn đề đó trước mới bắt đầu đưa giải pháp. Nếu xảy ra việc đó, nhóm phải giảm score và xác định lại vấn đề nằm ở đâu.
+
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
+
 Có. Cụ thể là lần nhóm thảo luận để xác định nhóm cho mỗi Problem.
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
 
+Có những câu kiểm chức kiến nhóm tôi có ý tưởng muốn thay đổi hướng tiếp cận
+
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
+
+Xác định Problem cụ thể, phân biệt giữa Problem và triệu chứng.
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
 
+Suy nghĩa kỹ hơn về cách mình tiếp cận bài toán, và đưa ra những problem nằm ngoài độ an toàn của bản thân. Tôi sẽ chú trọng vào vần pain point của actor và đứng ở góc độ của họ để nhìn nhận bài toán cho phần phản biện tốt hơn cho lần tới.
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
+
+Nhóm bắt đầu bằng việc xác định đúng vấn đề (Problem) mà người dùng đang gặp phải, sau đó phân tích quy trình (Process) để tìm nguyên nhân và ảnh hưởng. Tiếp theo, nhóm lựa chọn chỉ số (Metric) để đo lường vấn đề, xác định phạm vi giải quyết (Boundary) và đánh giá AI có thể hỗ trợ đến đâu, phần nào vẫn cần con người kiểm soát. Cuối cùng, nhóm quyết định có nên ứng dụng AI hay không và lựa chọn giải pháp phù hợp.
 
 ---
 
