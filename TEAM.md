@@ -58,3 +58,24 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 **Điều mình học được từ phần nhóm:**
 
 - _[Bạn điền]_
+
+### Đào Huy Hoàng-2A202603451
+
+**Phần việc phụ trách:**
+
+- CP1: scan 5 problem từ trải nghiệm công việc và chương trình VinUni.
+- CP2: chọn top 3 Problem Card, mô tả quy trình nháp và ghi nhận phản biện.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Hoàn thiện báo cáo cá nhân gồm bảng scan CP1, 3 Problem Card CP2 và các quy trình nháp.
+- Dùng trải nghiệm thực tế về theo dõi nhiều dự án, quay lại dự án sau khi chuyển việc và theo dõi thông báo Discord làm cơ sở cho các candidate.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- `report/individual/2A202603451_DaoHuyHoang.md`, mục 2–3.
+- Commit cá nhân: _[ghi mã commit sau khi commit file]_.
+
+**Điều mình học được từ phần nhóm:**
+
+- _[Tự bổ sung sau CP3–CP6 bằng trải nghiệm thực tế.]_
