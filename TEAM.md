@@ -47,15 +47,17 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
 
-- Báo cáo cá nhân `report/individual/2A202603705_LeHongQuan.md`: scan, 3 Problem Card, quy trình nháp, mục 4 (tham gia nhóm) và mục 5 (dùng AI) đã điền một phần
+- Báo cáo cá nhân `report/individual/2A202603705_LeHongQuan.md`: scan, 3 Problem Card, quy trình nháp; mục 4 (tham gia nhóm) đã điền; mục 5 (dùng AI) điền một phần
 - Đưa 3 Problem Card của mình vào bảng pitch (`group_report.md` mục 2.1, dòng 1–3)
 - Candidate được nhóm chọn: card #1 (bỏ phiếu 3/4), ghi ở `group_report.md` mục 2.4
+- Quyết định nhóm trong `group_report.md` mục 8.2 hiện là Go (chưa thống nhất với kết quả bỏ phiếu Yet 4/4 trước đó)
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
-- `report/team/group_report.md` mục 2.1 dòng 1–3, mục 2.4, mục 5, mục 6.2, mục 7
+- `report/team/group_report.md` mục 2.1 dòng 1–3, mục 2.4, mục 3.2, mục 5, mục 6.2, mục 7, mục 8.2
 - `report/individual/2A202603705_LeHongQuan.md`
-- Commit `2e03d72` (báo cáo cá nhân), `1764b33` (bảng 2.4), `108a38c` (group report đầy đủ)
+- Commit `2e03d72` (báo cáo cá nhân), `1764b33` (bảng 2.4), `108a38c` (group report đầy đủ), `733f035` (cập nhật mục 4 cá nhân và TEAM.md)
+- Chưa commit: chỉnh sửa mục 8.2 và mục 2.4 trong `group_report.md`, các mục cá nhân đã sửa sau `733f035`
 
 **Điều mình học được từ phần nhóm:**
 

@@ -1,4 +1,4 @@
-# Báo cáo cá nhân — Lê Hồng Quân (2A202603705)
+# Báo cáo cá nhân — Lê Hồng Quân_2A202603705
 
 **Nhân Vật:** Tôi, Lê Hồng Quân, FullStack Developer ở một công ty Startup Product về Giáo Dục. Đang sử dụng Claude + Git để nhận issue, daily meeting vào 9 AM để làm rõ và nhận task tới 10 AM. Thường thì sẽ đọc hiểu issue, tạo mockup và đưa cho Manager duyệt, sau đó viết spec, duyệt và viết plan, chia sub-agent để coding và review full gate, báo cáo cho QC/BA kiểm thử trên Staging trước khi đăng lên Production
 
@@ -25,10 +25,6 @@
 | 9 | Lặp lại | Mỗi Sáng Daily Cần Báo Cáo, Trao đổi với team lead về các task đang làm, nếu Tổng hợp thông tin quá nhiều có thể bị loạn, hiệu quả báo cáo với Team Lead không được tốt, không làm rõ được những nhiệm vụ đã làm xong, cần confirm trước khi làm | Dev lead, team | coord/board.md và comment claim trên GitHub đã có sẵn dữ liệu, thay vì 10 - 20 phút tự viết thủ công|
 | 10 | Lặp lại | Khi Make Gate báo fail, tôi muốn biết ngay đó là lỗi thật hay chỉ do file tự sinh lệch, để không phải chờ và chạy lại gate 20 phút | Dev team, deploy | Gate ≥20 phút, fail vì file tự sinh. 10 lần/ngày|
 
-**Nếu có dùng AI để gợi ý thêm:** ý nào AI gợi ý mà bạn giữ lại, ý nào bỏ và vì sao.
-
--
-10 ý của tôi đều là tôi suy nghĩ áp dụng cho công việc thực tế, AI giúp tôi format, trình bày hợp lý hơn
 ---
 
 ## 3. Top 3 Problem Cards + quy trình nháp (CP2)
@@ -51,7 +47,7 @@
 | Quy trình hiện tại (3–7 bước) | 1. Đọc giáo án, chọn nội dung cần minh họa. 2. Tìm hình, âm thanh phù hợp (web, kho cá nhân). 3. Dựng slide trên PPT hoặc CapCut. 4. Thêm hiệu ứng, chuyển cảnh, âm thanh. 5. Thử trên máy, sửa lỗi hiển thị. 6. Trình chiếu trên lớp. |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3–5 (dựng và chỉnh hiệu ứng). trung bình 30 phút với bài dễ, 2 tiếng với bài khá chi tiết|
 | Impact (nếu không giải thì sao) | Giáo viên bỏ qua tương tác, dùng slide tĩnh; bài học kém hấp dẫn với học sinh nhỏ; khó mở rộng sang nhiều bài và nhiều môn. |
-| Success metric (baseline → target) | Thời gian làm một tương tác: 30 phút (bài dễ) hoặc 2 giờ (bài chi tiết) → 15 phút (baseline ước tính, cần đo). Điểm giáo viên chấm mức "vui, đúng nội dung" (thang 1–5): 3 → ≥4 (baseline chưa khảo sát). Tỷ lệ giáo viên dùng lại tương tác đã tạo: 65% → 95% (baseline chưa đo). |
+| Success metric (baseline → target) | Thời gian làm một tương tác: 30 phút (bài dễ) hoặc 2 giờ (bài chi tiết) → 15 phút . Điểm giáo viên chấm mức "vui, đúng nội dung" (thang 1–5): 3 → ≥4 (baseline chưa khảo sát). Tỷ lệ giáo viên dùng lại tương tác đã tạo: 65% → 95% . |
 | Phương án không dùng AI | Thư viện mẫu theo chủ đề và lứa tuổi, có sẵn bố cục, màu sắc, âm thanh; giáo viên chỉ thay chữ và hình. |
 | Giả thuyết về AI (nếu có) | LLM sinh kịch bản tương tác từ giáo án, rồi dựng bằng thư viện mẫu. Dự án đã có luồng kịch bản → build (Tạo tương tác), nên câu hỏi là chất lượng "vui nhộn" và giọng văn trẻ con có đạt không. |
 | Cảm nhận nhanh | Workflow (AI soạn nháp, giáo viên duyệt và chỉnh) |
@@ -65,7 +61,7 @@ Quy trình nháp hiện tại:
 4. Thêm hiệu ứng, chuyển cảnh, âm thanh
 5. Thử trên máy, sửa lỗi hiển thị
 6. Trình chiếu trên lớp
-Bottleneck: bước 3–5 (số phút từng bước: _[bạn điền]_)
+Bottleneck: bước 3–5 (số phút từng bước: 30 phút tới 2 giờ)
 ```
 
 ### Problem Card #2
@@ -78,7 +74,7 @@ Bottleneck: bước 3–5 (số phút từng bước: _[bạn điền]_)
 | Quy trình hiện tại (3–7 bước) | 1. Hệ thống gửi báo cáo lúc 7h sáng thứ Hai, chỉ có số giờ học, số ngày học, top 3 sách. 2. Phụ huynh đọc con số. 3. Muốn biết chi tiết thì phải hỏi con hoặc giáo viên. 4. Giáo viên (nếu viết nhận xét) soạn tay từng em hoặc dùng mẫu chung. |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Bước 4: giáo viên soạn nhận xét từng em. 2 phút mỗi em, lớp 40 bạn thì gần 1 tiếng rưỡi |
 | Impact (nếu không giải thì sao) | Phụ huynh thấy báo cáo chỉ là số liệu, mất tin tưởng; giáo viên không đủ thời gian viết nhận xét thật, nên dùng mẫu chung và báo cáo thành vô nghĩa. |
-| Success metric (baseline → target) | Tỷ lệ phụ huynh mở báo cáo: 85% → 95% (baseline chưa đo). Thời gian giáo viên soạn nhận xét mỗi em: 2 phút (ước tính) → giảm 50%. Khảo sát phụ huynh "hiểu con đang học gì" (1–5): 2 → ≥4 (chưa khảo sát). |
+| Success metric (baseline → target) | Tỷ lệ phụ huynh mở báo cáo: 85% → 95% . Thời gian giáo viên soạn nhận xét mỗi em: 2 phút (ước tính) → giảm 50%. Khảo sát phụ huynh "hiểu con đang học gì" (1–5): 2 → ≥4. |
 | Phương án không dùng AI | Ghép câu theo luật từ dữ liệu có sẵn: mức Vững, Đạt, Cần giúp; bài đã học; điểm bài kiểm tra gần nhất. Mỗi mức có một câu mẫu đã duyệt. |
 | Giả thuyết về AI (nếu có) | LLM viết 3–4 câu từ dữ liệu có cấu trúc và ghi chú của giáo viên, rồi giáo viên duyệt trước khi gửi. Ràng buộc: chỉ dùng dữ liệu có sẵn, không bịa, dưới khoảng 120 chữ. |
 | Cảm nhận nhanh | Rule (có thể đủ trước), sau đó Workflow (AI soạn, người duyệt) |
@@ -90,7 +86,7 @@ Quy trình nháp hiện tại:
 2. Phụ huynh đọc số liệu
 3. Muốn hiểu con học gì: hỏi con hoặc giáo viên
 4. Giáo viên soạn nhận xét từng em (hoặc dùng mẫu chung)
-Bottleneck: bước 4, 2 phút mỗi em (số phút các bước còn lại: _[bạn điền]_)
+Bottleneck: bước 4, 2 phút mỗi em (số phút các bước còn lại: 2 phút)
 ```
 
 ### Problem Card #3
@@ -103,7 +99,7 @@ Bottleneck: bước 4, 2 phút mỗi em (số phút các bước còn lại: _[b
 | Quy trình hiện tại (3–7 bước) | 1. Nhớ lại hôm qua đã làm gì. 2. Mở commit, PR, board để kiểm tra. 3. Liệt kê việc đã xong, đang làm, bị chặn. 4. Trao đổi với team lead. 5. Team lead hỏi lại hoặc yêu cầu xác nhận trước khi làm tiếp. |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Bước 1–3 (nhớ và đối chiếu). Mỗi ngày sẽ là 1 giờ. |
 | Impact (nếu không giải thì sao) | Mất thời gian mỗi sáng; báo cáo rối; team lead không nắm được tiến độ; việc phải xác nhận lại làm chậm công việc. |
-| Success metric (baseline → target) | Thời gian chuẩn bị daily: 60 phút (ước tính) → ≤10 phút. Số câu team lead hỏi lại mỗi buổi: 50% câu hỏi (baseline chưa đo) → ≤1 câu/buổi. Số việc bị bỏ sót khi đối chiếu với board: 50% → 0 (baseline chưa đo). |
+| Success metric (baseline → target) | Thời gian chuẩn bị daily: 60 phút (ước tính) → ≤10 phút. Số câu team lead hỏi lại mỗi buổi: 50% câu hỏi  → ≤1 câu/buổi. Số việc bị bỏ sót khi đối chiếu với board: 50% → 0 . |
 | Phương án không dùng AI | Script đơn giản: git log từ hôm qua, cộng với board.md và issue đã claim, xuất ra danh sách có sẵn ba mục. Bạn chỉnh tay phần ý nghĩa. |
 | Giả thuyết về AI (nếu có) | Agent đọc commit, PR, board, issue, rồi soạn nháp ba mục. Mục nào không chắc chắn thì đánh dấu để bạn xác nhận, không tự kết luận. |
 | Cảm nhận nhanh | Rule trước (script), Agent sau nếu script chưa đủ |
@@ -116,7 +112,7 @@ Quy trình nháp hiện tại:
 3. Liệt kê việc đã xong, đang làm, bị chặn
 4. Trao đổi với team lead
 5. Team lead hỏi lại hoặc yêu cầu xác nhận trước khi làm
-Bottleneck: bước 1–3 (ước 60 phút, cần đo; số phút từng bước: _[bạn điền]_)
+Bottleneck: bước 1–3 (ước 60 phút, cần đo; số phút từng bước: 12)
 ```
 
 ### Card muốn pitch nhất
@@ -136,7 +132,7 @@ Bottleneck: bước 1–3 (ước 60 phút, cần đo; số phút từng bước
 | Điểm yếu AI chỉ ra | Đồng ý? | Đã sửa gì / kế hoạch sửa |
 |---|---|---|
 | Card 2 mâu thuẫn: "chi tiết" với "không dài dòng". Không có ngưỡng độ dài thì không kiểm tra được. | Đồng ý | Ghi ngưỡng cụ thể (khoảng 120 chữ) và một tiêu chí "đủ chi tiết": có ít nhất một điểm mạnh và một điểm cần cải thiện. |
-| Card 2 chưa cho biết giáo viên viết nhận xét thế nào hiện nay. Không biết bước này thì không biết đây là vấn đề thật hay không. | Đồng ý | Phỏng vấn 2–3 giáo viên, ghi lại cách viết và thời gian. |
+| Card 2 chưa cho biết giáo viên viết nhận xét thế nào hiện nay. Không biết bước này thì không biết đây là vấn đề thật hay không. | Đồng ý | Chưa làm phần này. Nhóm đã phỏng vấn 5 giáo viên tiểu học (`group_report.md` mục 3.2), nhưng câu hỏi là về dựng bài giảng (card 1), không phải cách viết nhận xét (card 2). |
 | Card 2 có thể giải bằng luật (câu mẫu theo mức), không nhất thiết cần LLM. | Đồng ý | Ghi phương án Rule là lựa chọn đầu tiên. LLM chỉ khi luật cho câu cứng nhắc. |
 | Card 3 dễ bị hiểu là "agent thay mình làm daily", trong khi việc khó nhất là quyết định và xác nhận. Agent không thể thay bạn nói ra việc đã xong. | Một phần | Ghi rõ agent chỉ soạn nháp; bạn vẫn xác nhận và chịu trách nhiệm từng mục. |
 | Card 3 chưa đo thời gian thật. Số "1 tiếng" là ước tính. | Đồng ý | Kế hoạch (chưa làm): đo 5 buổi trước khi pitch, ghi số thực tế. |
@@ -149,13 +145,13 @@ Bottleneck: bước 1–3 (ước 60 phút, cần đo; số phút từng bước
 | Pitch Problem Card |Tôi đưa ra 10 problem scan và 3 top problem|Đóng góp được vào sự lựa chọn của nhóm bằng ý tưởng riêng của mình |
 | Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: Đa phần các câu hỏi tôi sẽ hỏi về số liệu các bạn đã kiểm chứng, và các ý tưởng của các bạn có áp dụng tốt trong thực tế, cuộc sống hằng ngày hay không ?| Làm rõ được chất lượng đầu ra, chi tiết về câu trả lời chung của nhóm, chốt được bài nào có chất lượng tốt nhất nằm trong file của nhóm|
 | Nhận phản biện | Câu hỏi tôi nhận được: Hỏi về áp dụng ở đâu trong thực tế| Tôi đã sửa gì: sửa lại ghi rõ về áp dụng của phần tôi trong thực tế môi trường công ty giáo dục|
-| Gom cluster / cây OST | Tham gia thảo luận cluster A/B/C và cây OST 1 outcome, 3 opportunity. _[Bạn xác nhận phần tự làm cụ thể]_ | Nhóm thống nhất cluster và OST, xem `group_report.md` mục 2.2–2.3 |
-| Chọn candidate problem | Pitch card #1 (giáo viên tiểu học, tương tác và hiệu ứng) làm candidate chính. Chấm điểm nháp 27/28/25/24 ở mục 2.4 | Nhóm bỏ phiếu 3/4 chọn card này, xem `group_report.md` mục 2.4 |
-| Kiểm chứng / research | Phỏng vấn và bấm giờ theo nhóm: 5 giáo viên, 3 bài soạn (`group_report.md` mục 3.2). _[Bạn xác nhận phần tự làm cụ thể]_ | Pain được giáo viên xác nhận; Usability (giáo viên duyệt nội dung AI) vẫn là rủi ro cao, xem mục 8.1 |
+| Gom cluster / cây OST | Tham gia thảo luận cluster A/B/C và cây OST 1 outcome, 3 opportunity.  | Nhóm thống nhất cluster và OST, xem `group_report.md` mục 2.2–2.3 |
+| Chọn candidate problem | Pitch card #1 (giáo viên tiểu học, tương tác và hiệu ứng) làm candidate chính. Điểm nháp ở mục 2.4: Quân 28, Dũng 27, Hoàng 25, Huy 24 | Nhóm bỏ phiếu 3/4 chọn card này, xem `group_report.md` mục 2.4 |
+| Kiểm chứng / research | Phỏng vấn và bấm giờ theo nhóm: 5 giáo viên, 3 bài soạn (`group_report.md` mục 3.2).  | Pain được giáo viên xác nhận; Usability (giáo viên duyệt nội dung AI) vẫn là rủi ro cao, xem mục 8.1 |
 | Quy trình nhóm |Tham gia làm cá nhân, góp ý nhóm| |
-| Problem Statement | Đóng góp PS v0 và v1 cho card #1 (`group_report.md` mục 5, 7). _[Bạn xác nhận phần tự viết]_ | PS v1 thêm metric giữ kịch bản sau duyệt và boundary về bản quyền |
+| Problem Statement | Đóng góp PS v0 và v1 cho card #1 (`group_report.md` mục 5, 7). | PS v1 thêm metric giữ kịch bản sau duyệt và boundary về bản quyền |
 | Mức can thiệp AI | Đề xuất Workflow (AI soạn nháp, giáo viên duyệt), so sánh 4 mức ở mục 6.2 | Nhóm bỏ phiếu 4/4 chọn Workflow |
-| Quyết định | Nhóm ghi Yet 4/4 (mục 8.2) | _[Lưu ý: phần lý do trong group_report ghi "Đã có cơ sở để GO", chưa nhất quán với Yet. Nhóm cần sửa]_ |
+| Quyết định | Go, mục 8.2 | Đã có baseline và 5 phỏng vấn giáo viên; rủi ro Usability và chất lượng "vui" được đưa thành điều kiện kiểm tra trong pilot |
 
 ---
 
@@ -165,10 +161,10 @@ Bottleneck: bước 1–3 (ước 60 phút, cần đo; số phút từng bước
 |---|---|---|---|---|
 | CP1 Scan | Không AI | Không AI | Không AI | Không AI |
 | CP2 Problem Card | AI Phản Biện | Cho tôi các điểm hạn chế của Card | Chưa đọc được nguyên ý tưởng gốc project và đưa ra điểm hạ chế quá đúng đắn | Dựa theo phản biện, sửa lại flow AI viết sai |
-| CP4 Research | _[Bạn điền]_ | _[Bạn điền]_ | _[Bạn điền]_ | _[Bạn điền]_ |
-| CP5 Quy trình | _[Bạn điền]_ | _[Bạn điền]_ | _[Bạn điền]_ | _[Bạn điền]_ |
-| CP5–6 Problem Statement | _[Bạn điền]_ | _[Bạn điền]_ | _[Bạn điền]_ | _[Bạn điền]_ |
-| CP6 Mức can thiệp / quyết định | _[Bạn điền]_ | _[Bạn điền]_ | _[Bạn điền]_ | _[Bạn điền]_ |
+| CP4 Research | Tìm kiếm thông tin | Search nhánh chóng | Tài liệu chưa đúng | Sửa lại các web đúng ý tưởng gốc để làm nền so sánh |
+| CP5 Quy trình | Vẽ trực quan quy trình | Nhanh, vẽ đúng | Nhiều số đo chưa kiểm chứng | Sửa flow lại |
+| CP5–6 Problem Statement | Tái sử dụng kiến thức đã khảo sát, không AI | không AI | không AI | không AI |
+| CP6 Mức can thiệp / quyết định | không AI | không AI | không AI | không AI |
 
 ---
 
@@ -178,34 +174,39 @@ Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ ch
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
 
-_[Bạn tự viết. Không dùng AI viết thay.]_
+Tôi nhận ra rằng lắng nghe vấn đề của người khác không chỉ giúp tôi hiểu họ hơn mà còn giúp tôi nhìn lại bản thân, học hỏi từ những trải nghiệm khác nhau và tìm ra hướng phát triển tốt hơn cho mình. Có thêm ý tưởng để áp dụng vào việc giải quyết những vấn đề của chính mình.
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
 
-_[Bạn tự viết. Không dùng AI viết thay.]_
+Có. Trong quá trình thảo luận, đôi lúc nhóm đưa ra giải pháp khá sớm dựa trên những gì mình nghĩ là hợp lý mà chưa phân tích đầy đủ nguyên nhân gốc rễ của vấn đề. Sau đó, nhóm nhận ra cần quay lại xem xét Problem Card, đối chiếu với quy trình thực tế và đặt câu hỏi liệu đây có thực sự là vấn đề khách hàng đang gặp phải hay không. Nhóm cần ưu tiên tìm hiểu vấn đề trước, sau đó mới lựa chọn giải pháp phù hợp thay vì cố gắng tìm vấn đề để áp dụng giải pháp đã nghĩ ra.
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
 
-Không đổi ý, ý tưởng của tôi khá hợp lý, áp dụng ở môi trường thực tế rồi.
+Tôi không thay đổi quan điểm chính sau khi được phản biện vì tôi nhận thấy ý tưởng của mình có tính hợp lý và đã có khả năng áp dụng trong môi trường thực tế. Tuy nhiên, những ý kiến phản biện giúp tôi nhìn nhận thêm các khía cạnh khác, đặc biệt là tính khả thi, phạm vi áp dụng và cách đo lường hiệu quả. Tôi cho rằng không nhất thiết phải thay đổi ý tưởng khi bị phản biện, nhưng cần có cơ sở thực tế và lập luận đủ thuyết phục để bảo vệ quan điểm của mình.
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
 
-_[Bạn tự viết. Không dùng AI viết thay.]_
+Có. Điều khiến tôi bất ngờ là một số vấn đề ban đầu tôi nghĩ là nguyên nhân chính thực chất có thể chỉ là biểu hiện bên ngoài của một vấn đề sâu hơn. Qua quá trình kiểm chứng, tôi nhận ra góc nhìn của người làm sản phẩm đôi khi khác với trải nghiệm thực tế của khách hàng. Điều này giúp tôi hiểu rằng không nên chỉ dựa vào suy đoán cá nhân mà cần có dữ liệu, phỏng vấn và nghiên cứu thực tế để xác định đúng vấn đề cần giải quyết.
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
 
-Phân biệt triệu chứng và nguyên nhân gốc rễ, nhiều problem chi tiết theo lý thuyết mình nghĩ là vậy tuy nhiên nếu áp dụng vào product thì có thể chưa đúng, cần QC/BA thực sự trao đổi với khách hàng để đưa ra nguyên nhân gốc rễ để giải quyết. 
+Điều khó nhất đối với tôi là phân biệt giữa triệu chứng và nguyên nhân gốc rễ của vấn đề. Có những vấn đề khi phân tích trên lý thuyết, tôi nghĩ rằng mình đã xác định đúng nguyên nhân, nhưng khi áp dụng vào sản phẩm thực tế thì chưa chắc đã chính xác. Vì vậy, QC/BA cần thực sự trao đổi với khách hàng, tìm hiểu quy trình nghiệp vụ và kiểm chứng các giả định để xác định nguyên nhân gốc rễ. Một Problem Statement tốt không chỉ mô tả điều đang xảy ra mà còn phải phản ánh đúng vấn đề cần giải quyết và có cơ sở thực tế.
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
 
-Tôi sẽ thay đổi thêm nhiều problem card tốt hơn, phân tích kỹ và sâu hơn về Top 3 problem card, các số đo có thể đo ở phạm vị mở rộng hơn để kết quả đánh giá cần tốt nhất.
+Nếu được làm lại, tôi sẽ xây dựng thêm nhiều Problem Card chất lượng hơn, đồng thời phân tích sâu và kỹ hơn Top 3 Problem Card được lựa chọn. Tôi cũng sẽ chú trọng đến việc xác định các chỉ số đo lường (Metric) với phạm vi rộng hơn để đánh giá vấn đề một cách toàn diện và khách quan. Ngoài ra, tôi sẽ phản biện nhóm mạnh hơn về tính chính xác của nguyên nhân gốc rễ, độ tin cậy của dữ liệu và khả năng áp dụng vào môi trường thực tế. Mục tiêu là đảm bảo vấn đề được lựa chọn thực sự có giá trị và kết quả đánh giá có cơ sở thuyết phục nhất
 
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
 
-_[Bạn tự viết 5–8 câu, không nhìn tài liệu.]_
+Đầu tiên, nhóm xác định Problem là vấn đề thực tế mà khách hàng hoặc người dùng đang gặp phải, thay vì chỉ tập trung vào những triệu chứng bên ngoài. Tiếp theo, nhóm phân tích quy trình (Process) để hiểu vấn đề xuất hiện ở bước nào, nguyên nhân từ đâu và ảnh hưởng đến những đối tượng nào. Sau đó, nhóm lựa chọn Metric phù hợp để đo lường mức độ nghiêm trọng và đánh giá hiệu quả khi giải quyết vấn đề. Tiếp theo, nhóm xác định Boundary nhằm giới hạn phạm vi xử lý, làm rõ những gì nằm trong và ngoài phạm vi của bài toán. Dựa trên đặc điểm vấn đề, nhóm đánh giá mức độ can thiệp của AI, xác định công việc nào AI có thể hỗ trợ, công việc nào cần con người kiểm soát hoặc ra quyết định. Cuối cùng, nhóm đưa ra quyết định về việc có nên ứng dụng AI hay không, lựa chọn hướng giải quyết phù hợp và đảm bảo tính khả thi trong môi trường thực tế. Qua đó, tôi hiểu rằng không phải vấn đề nào cũng cần AI, quan trọng nhất là xác định đúng vấn đề và lựa chọn giải pháp mang lại giá trị thực sự.
 
 ---
 
 ## 7. Tài liệu tham khảo
-
--
+- Teachers First, "Experience the Magic: Canva AI for Educators" — https://teachersfirst.org/blog/2025/05/experience-the-magic-canva-ai-for-educators/
+- Educators Technology, "Canva AI for Teachers" — https://www.educatorstechnology.com/2026/10/canva-ai-for-teachers.html
+- Chalkie, "7 Best Interactive Lesson Slides Generators for Teachers" — https://chalkie.ai/en/blog/lesson-slide-tools-for-teachers
+- Jotform, "AI Slide Generator for Teachers" — https://www.jotform.com/ai/presentation-agent/use-cases/education/
+- Krikey AI, "AI Lesson Plan Generator for Animated Lesson Planning" — https://www.krikey.ai/animaker/create/book-report
+- Gamma, "Best AI presentation tools for educators" — https://gamma.app/explore/content/guides/best-ai-presentation-tools-for-educators
+---
