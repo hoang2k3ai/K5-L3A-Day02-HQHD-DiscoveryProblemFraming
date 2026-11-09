@@ -24,9 +24,9 @@
 | 7 | Đào Huy Hoàng | Khi quay lại một dự án sau khi bị chuyển sang việc ưu tiên khác, tôi muốn nhanh chóng nhớ mình đã làm đến đâu và bước tiếp theo là gì, để tiếp tục mà không phải dò lại từ đầu | Junior AI Engineer đang làm nhiều dự án | Đọc lại log/task và commit để tìm điểm đang dở: khoảng 60 phút lần gần nhất (4 bước × ~15 phút) | Dũng hỏi: “Các thông tin plan, log/task và commit đã đủ để truy xuất trạng thái dự án chưa?” |
 | 8 | Đào Huy Hoàng | Khi nhiều dự án có deadline khác nhau cùng được giao, tôi muốn biết việc nào cần ưu tiên và khi nào chuyển việc, để không bỏ lỡ mốc quan trọng của dự án nào | Junior AI Engineer theo dõi nhiều dự án | So sánh deadline, trạng thái và ưu tiên để chọn task tiếp theo: khoảng 8 phút trong ~20 phút rà soát mỗi sáng | Bạn dựa vào tiêu chí nào để chọn dự án ưu tiên khi có nhiều deadline khác nhau? |
 | 9 | Đào Huy Hoàng | Khi có tin mới ở nhiều kênh Discord của chương trình, tôi muốn biết tin nào liên quan và cần xử lý, để không bỏ lỡ thông báo hoặc việc cần làm | Học viên chương trình Đào tạo AI thực chiến | Xác định tin liên quan và việc cần làm giữa nhiều kênh: khoảng 8 phút mỗi lần kiểm tra (~15 phút/lần, khoảng 2 tiếng một lần) | Trong khoảng 50 tin nhắn mới, có tin quan trọng nào bạn đọc muộn hoặc bỏ lỡ, và việc đó ảnh hưởng thế nào? |
-| 10 | Hồ Văn Dũng | Khi chọn tài liệu tự học HTML/CSS, tôi muốn chọn nguồn phù hợp với trình độ hiện tại, để hiểu bài mà không phải liên tục đổi nguồn | Bản thân — người tự học lập trình web | Đọc/xem thử để đánh giá độ phù hợp khoảng 20 phút; tìm và chọn nguồn mất 30–50 phút, bỏ qua 3–4 nguồn | _[chưa có câu hỏi]_ |
-| 11 | Hồ Văn Dũng | Khi muốn tạo form đăng nhập HTML/CSS nhưng chưa biết bắt đầu từ đâu, tôi muốn xác định kiến thức và từ khóa cần tìm, để tìm được tài liệu hướng dẫn đúng nhu cầu | Bản thân — người mới tự học web | Xác định kết quả tìm được có đáp ứng mục tiêu hay không; cả quá trình tìm khoảng 20 phút, đổi từ khóa/nguồn 3–4 lần | _[chưa có câu hỏi]_ |
-| 12 | Hồ Văn Dũng | Khi chỉ cần một nội dung cụ thể trong khóa Java dài, tôi muốn tìm đúng bài hoặc đoạn liên quan, để tiếp cận kiến thức cần nhanh hơn | Bản thân — người tự học lập trình qua video | Tìm đoạn chứa nội dung OOP: khoảng 20 phút tổng, bước 4 khoảng 5 phút | _[chưa có câu hỏi]_ |
+| 10 | Hồ Văn Dũng | Khi chọn tài liệu tự học HTML/CSS, tôi muốn chọn nguồn phù hợp với trình độ hiện tại, để hiểu bài mà không phải liên tục đổi nguồn | Bản thân — người tự học lập trình web | Đọc/xem thử để đánh giá độ phù hợp khoảng 20 phút; tìm và chọn nguồn mất 30–50 phút, bỏ qua 3–4 nguồn | Khi tìm kiếm thì chatbot sẽ lấy tài liệu ở đâu (huy Hoàng hỏi) |
+| 11 | Hồ Văn Dũng | Khi muốn tạo form đăng nhập HTML/CSS nhưng chưa biết bắt đầu từ đâu, tôi muốn xác định kiến thức và từ khóa cần tìm, để tìm được tài liệu hướng dẫn đúng nhu cầu | Bản thân — người mới tự học web | Xác định kết quả tìm được có đáp ứng mục tiêu hay không; cả quá trình tìm khoảng 20 phút, đổi từ khóa/nguồn 3–4 lần | nếu như mình có 1 framework khác thì con chatbot đó có đưa ra các ngôn ngữ của framework đó hay không (Quân hỏi) |
+| 12 | Hồ Văn Dũng | Khi chỉ cần một nội dung cụ thể trong khóa Java dài, tôi muốn tìm đúng bài hoặc đoạn liên quan, để tiếp cận kiến thức cần nhanh hơn | Bản thân — người tự học lập trình qua video | Tìm đoạn chứa nội dung OOP: khoảng 20 phút tổng, bước 4 khoảng 5 phút | Nếu như người dùng hỏi về OOP nhưng chatbot lại đưa quá ít thông tin và chỉ có thông tin về link Youtube thì như vậy nó sẽ không được đầy đủ như là tài liệu .dox, ... (huy hoàng hỏi) |
 
 ### 2.2. Cluster
 
@@ -70,7 +70,7 @@ OUTCOME: Giảm thời gian tra cứu, khôi phục ngữ cảnh và soạn vi�
 - Huy (24): cần dữ liệu Fanpage và quyền truy cập API, rủi ro sai thông tin tuyển sinh cao. Chưa phù hợp làm pilot đầu tiên trong buổi lab.
 - Quân có tổng điểm nháp cao nhất (28), nhưng điểm "Impact đo được" (2) thấp hơn Hoàng và Dũng (3). Nhóm chọn Quân dựa trên tác động cho học sinh và khả năng gắn AI thật, không chỉ dựa trên tổng điểm nháp. Điểm "Impact đo được" cần chấm lại trong buổi chốt.
 
-**Xử lý bất đồng (nếu có):** 
+**Xử lý bất đồng (nếu có):**
 - Mọi người bất động về cách hiểu về trách nhiệm cá nhân và nhóm trong bài LAB, và cả team đã daily 30 phút để thống nhất cách để từ bài cá nhân áp dụng vào group_report.
 
 ---
@@ -115,7 +115,7 @@ Tổng hợp:
 | Phỏng vấn giáo viên tiểu học | 5 | 5 | 0 |
 | Bấm giờ bài soạn thực tế | 3 | 3 | 0 |
 
-**Nhóm đã sửa problem thế nào sau kiểm chứng:** 
+**Nhóm đã sửa problem thế nào sau kiểm chứng:**
 - Nhóm đã sửa lại vấn đề thời gian và số lần giáo viên gặp phải sau cuộc kiểm chứng, đồng thời tiếp thu ý kiến của giáo viên feedback về cách Giáo Viên dùng nó trong lớp học, nên và không nên làm gì trong khi dùng AI tạo.
 
 ### 3.3. Research giải pháp đã có
@@ -155,7 +155,7 @@ Sơ đồ:
 | 5 | Giáo viên | Slide có hiệu ứng | Slide đã kiểm tra | 2 Giờ | Từ Giáo Viên |
 | 6 | Giáo viên | Slide | Buổi học | Theo lịch dạy | Không thuộc phạm vi bottleneck |
 
-**Bottleneck chính:** bước 3–5 (dựng và chỉnh hiệu ứng). Theo Giáo Viên 30 phút với bài dễ và 2 giờ với bài chi tiết. 
+**Bottleneck chính:** bước 3–5 (dựng và chỉnh hiệu ứng). Theo Giáo Viên 30 phút với bài dễ và 2 giờ với bài chi tiết.
 
 ### 4.2. Quy trình tương lai
 
