@@ -2,13 +2,15 @@
 
 > Bản chung của nhóm, viết trên repo do nhóm trưởng fork. Không copy file này sang repo cá nhân.
 > Template chi tiết và prompt mẫu: [docs/01-worksheet.md](../../docs/01-worksheet.md). Bài mẫu: [docs/02-deliverable-example.md](../../docs/02-deliverable-example.md).
+>
+> **Trạng thái:** bản nháp đầy đủ. Phần suy ra từ card cá nhân đã điền. Phần cần phỏng vấn, đo thực tế hoặc nhóm bỏ phiếu được ghi rõ là `_[chưa có: …]_`, không điền số liệu giả.
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm:
+- Tên nhóm: HQHD
 - Thành viên: xem `TEAM.md`
-- Candidate problem được chọn (1 câu):
-- Quyết định cuối: Go / Not Yet / No-Go
+- Candidate problem được chọn (1 câu): Giáo viên tiểu học cần tạo tương tác và hiệu ứng vui nhộn đúng nội dung từng bài giảng nhanh hơn, để học sinh lớp nhỏ nhớ bài và tham gia hơn (card #1 của Lê Hồng Quân, đề xuất để nhóm đồng thuận).
+- Quyết định cuối: **Not Yet** (đề xuất; chưa có baseline đo được và chưa phỏng vấn giáo viên, xem mục 8.2)
 
 ---
 
@@ -22,7 +24,7 @@
 | 2 | Lê Hồng Quân | Khi sáng thứ Hai nhận báo cáo tuần về con, phụ huynh muốn biết con đã học gì và còn yếu chỗ nào, để hỏi và động viên con đúng lúc | Phụ huynh; giáo viên viết nhận xét | Bước 4: soạn nhận xét 2 phút mỗi em, lớp 40 em khoảng 1 giờ 30 phút | _[chưa có câu hỏi]_ |
 | 3 | Lê Hồng Quân | Khi mỗi sáng báo cáo với team lead, tôi muốn có sẵn tóm tắt việc đã xong, đang làm và bị chặn, để không phải nhớ lại | Bản thân (người báo cáo); team lead | Bước 1–3: nhớ và đối chiếu, ước 60 phút/ngày (chưa đo) | _[chưa có câu hỏi]_ |
 | 4 | Bùi Quang Huy | Khi ứng viên hoặc học viên hỏi qua Messenger/bình luận Fanpage, tôi muốn có câu trả lời gợi ý dựa trên thông tin đã xác thực, để phản hồi nhanh và nhất quán | Nhân viên trực Fanpage/tư vấn tuyển sinh; ứng viên và học viên | Bước 3: tra cứu FAQ/tài liệu hoặc hỏi điều phối viên, khoảng 5 phút/câu khi thông tin thay đổi | Nếu thông tin tuyển sinh hoặc lịch học thay đổi liên tục, làm sao đảm bảo AI chỉ gợi ý câu trả lời từ nguồn đã xác thực và không cung cấp thông tin cũ? |
-| 5 | Bùi Quang Huy | Khi sắp có buổi học hoặc lịch học thay đổi, tôi muốn nhận nhắc nhở kịp thời về thông tin buổi học, để tham gia đầy đủ và chuẩn bị tốt | Học viên; điều phối viên lớp học | Bước 3–4: lấy danh sách/kênh nhận và gửi nhắc thủ công; dễ bỏ sót lớp khi lịch thay đổi sát giờ | Nếu lịch học thay đổi sát giờ hoặc học viên không nhận được thông báo, hệ thống làm sao phát hiện và đảm bảo không bỏ sót người cần nhắc?|
+| 5 | Bùi Quang Huy | Khi sắp có buổi học hoặc lịch học thay đổi, tôi muốn nhận nhắc nhở kịp thời về thông tin buổi học, để tham gia đầy đủ và chuẩn bị tốt | Học viên; điều phối viên lớp học | Bước 3–4: lấy danh sách/kênh nhận và gửi nhắc thủ công; dễ bỏ sót lớp khi lịch thay đổi sát giờ | Nếu lịch học thay đổi sát giờ hoặc học viên không nhận được thông báo, hệ thống làm sao phát hiện và đảm bảo không bỏ sót người cần nhắc? |
 | 6 | Bùi Quang Huy | Khi chủ xe VinFast báo lỗi qua email, hotline hoặc ứng dụng, tôi muốn xem lịch sử tương tác và trạng thái xử lý tập trung, để khách không phải cung cấp lại thông tin và tránh tạo ticket trùng | Nhân viên CSKH VinFast; bộ phận kỹ thuật; cố vấn dịch vụ | Bước 3–4: tra cứu lịch sử và đối chiếu ticket từ nhiều nguồn, ước tính 8–12 phút/yêu cầu | Nếu dữ liệu CSKH VinFast nằm ở nhiều hệ thống khác nhau và không có mã định danh thống nhất, làm sao hợp nhất chính xác lịch sử tương tác mà không ghép nhầm khách hàng hoặc tạo ticket trùng? |
 | 7 | Đào Huy Hoàng | Khi quay lại một dự án sau khi bị chuyển sang việc ưu tiên khác, tôi muốn nhanh chóng nhớ mình đã làm đến đâu và bước tiếp theo là gì, để tiếp tục mà không phải dò lại từ đầu | Junior AI Engineer đang làm nhiều dự án | Đọc lại log/task và commit để tìm điểm đang dở: khoảng 60 phút lần gần nhất (4 bước × ~15 phút) | _[chưa có câu hỏi]_ |
 | 8 | Đào Huy Hoàng | Khi nhiều dự án có deadline khác nhau cùng được giao, tôi muốn biết việc nào cần ưu tiên và khi nào chuyển việc, để không bỏ lỡ mốc quan trọng của dự án nào | Junior AI Engineer theo dõi nhiều dự án | So sánh deadline, trạng thái và ưu tiên để chọn task tiếp theo: khoảng 8 phút trong ~20 phút rà soát mỗi sáng | _[chưa có câu hỏi]_ |
@@ -65,13 +67,20 @@ Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 
 _Điểm nháp do mình suy ra từ các card cá nhân; nhóm cần chấm lại theo thang 1–5 trước khi chốt._
 
-**Candidate được chọn:**
+**Candidate được chọn:** Quân — card #1 (giáo viên tiểu học, tương tác và hiệu ứng cho bài giảng). _[chưa có: nhóm cần bỏ phiếu xác nhận]_
 
 **Vì sao chọn:**
+- Đây là vấn đề có tác động vào học sinh, và công ty đã có luồng "Tạo tương tác" (kịch bản → build), nên bài toán có chỗ để gắn AI thật.
+- Bottleneck được mô tả cụ thể (bước 3–5, 30 phút đến 2 giờ mỗi bài), dễ so với phương án không dùng AI (thư viện mẫu).
+- Điểm cao nhất ở "So sánh được" và "Actor rõ", đây là hai điều kiện để làm pilot.
 
 **Vì sao loại các candidate còn lại:**
+- Hoàng (28 điểm, cao nhất): vấn đề rõ và dễ thử với chính người viết, nhưng người dùng là một Junior AI Engineer tự làm việc, tác động lên tổ chức nhỏ. Có thể dùng làm pilot cá nhân sau.
+- Dũng (27): pain và quy trình rõ, nhưng người dùng là một người tự học, khó đo tác động đồng đều. Có thể giữ làm nghiên cứu tiếp theo.
+- Huy (24): cần dữ liệu Fanpage và quyền truy cập API, rủi ro sai thông tin tuyển sinh cao. Chưa phù hợp làm pilot đầu tiên trong buổi lab.
+- Điểm của Quân thấp hơn Hoàng và Dũng ở "Pain có bằng chứng" và "Impact đo được", nên nhóm chọn Quân dựa trên tác động cho học sinh và khả năng gắn AI thật, không dựa trên tổng điểm nháp. Nhóm cần ghi rõ điều này khi bỏ phiếu.
 
-**Xử lý bất đồng (nếu có):**
+**Xử lý bất đồng (nếu có):** _[chưa có: ghi lại nếu có thành viên không đồng ý với lựa chọn]_
 
 ---
 
@@ -81,47 +90,55 @@ _Điểm nháp do mình suy ra từ các card cá nhân; nhóm cần chấm lạ
 
 | # | Giả định | Loại (Value / Usability / Feasibility / Viability) | Quan trọng (1–5) | Đã có bằng chứng (1–5) | Kiểm chứng trước? |
 |---:|---|---|---:|---:|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-| 6 | | | | | |
+| 1 | Giáo viên tiểu học thật sự mất 30 phút đến 2 giờ cho mỗi tương tác | Value | 5 | 2 | Có, đo bằng cách bấm giờ 3 bài soạn thực tế |
+| 2 | Học sinh lớp nhỏ nhớ bài hơn khi có tương tác đúng nội dung | Value | 5 | 1 | Có, nhưng cần thiết kế thử nghiệm (so sánh lớp có và không có tương tác) |
+| 3 | Giáo viên sẽ dùng lại tương tác do công cụ tạo ra (không chỉ thử một lần) | Usability | 4 | 1 | Có, theo dõi số lần dùng lại trong 2–4 tuần |
+| 4 | Giáo viên đủ chuyên môn và thời gian duyệt kịch bản AI viết cho bài học | Usability | 5 | 1 | Có, phỏng vấn giáo viên về cách họ duyệt nội dung |
+| 5 | Luồng "Tạo tương tác" hiện có đạt chất lượng "vui nhộn, hồn nhiên" cho lớp nhỏ | Feasibility | 4 | 1 | Có, làm một bài mẫu và cho 2–3 giáo viên chấm |
+| 6 | Phương án thư viện mẫu (không AI) chưa đủ giải quyết vấn đề | Viability | 4 | 1 | Có, so sánh thời gian với mẫu sẵn |
 
-*Điền 4–6 giả định; xóa dòng thừa.*
-
-Giả định nhóm kiểm chứng trong buổi này:
+Giả định nhóm kiểm chứng trong buổi này: giả định 1 và 4 (thời gian và khả năng duyệt của giáo viên), vì hai giả định này quyết định có cần AI hay không.
 
 ### 3.2. Kiểm chứng
 
-Cách đã dùng: Phỏng vấn / Survey / Log, ticket, review
+Cách đã dùng: _[chưa có: chưa phỏng vấn hoặc khảo sát giáo viên tiểu học nào. Nhóm chỉ có ước lượng từ card cá nhân.]_
+
+Kế hoạch đề xuất (chưa thực hiện):
+- Phỏng vấn 2–3 giáo viên tiểu học theo mẫu snapshot bên dưới. Hỏi họ dựng tương tác như thế nào, mất bao lâu, dùng công cụ nào, và họ có duyệt nội dung do AI viết không.
+- Bấm giờ 3 bài soạn thực tế dùng luồng hiện có để có baseline.
 
 Interview snapshot (mỗi buổi phỏng vấn một bảng, hoặc đặt file trong `report/assets/cp4-interview-snapshot-N.md`):
 
 | Trường | Nội dung |
 |---|---|
-| Người được hỏi (vai trò, không ghi tên thật) | |
-| Câu nói đáng nhớ nhất (nguyên văn) | |
-| Lần gần nhất gặp vấn đề này: chuyện gì đã xảy ra? | |
-| Hiện đang xử lý bằng cách nào (workaround)? | |
-| Mất bao lâu, bao lần? | |
-| Insight / opportunity rút ra | |
+| Người được hỏi (vai trò, không ghi tên thật) | _[chưa có]_ |
+| Câu nói đáng nhớ nhất (nguyên văn) | _[chưa có]_ |
+| Lần gần nhất gặp vấn đề này: chuyện gì đã xảy ra? | _[chưa có]_ |
+| Hiện đang xử lý bằng cách nào (workaround)? | _[chưa có]_ |
+| Mất bao lâu, bao lần? | _[chưa có]_ |
+| Insight / opportunity rút ra | _[chưa có]_ |
 
 Tổng hợp:
 
 | Nguồn | Số người / số mẫu | Tín hiệu xác nhận | Tín hiệu phản bác |
 |---|---:|---|---|
-| | | | |
+| Phỏng vấn giáo viên tiểu học | 0 | _[chưa có]_ | _[chưa có]_ |
+| Bấm giờ bài soạn thực tế | 0 | _[chưa có]_ | _[chưa có]_ |
 
-**Nhóm đã sửa problem thế nào sau kiểm chứng:**
+**Nhóm đã sửa problem thế nào sau kiểm chứng:** _[chưa có: chưa có kiểm chứng nào để sửa problem. Các sửa đổi hiện có là sửa trong card cá nhân, xem mục 5 và 7.]_
 
 ### 3.3. Research giải pháp đã có
 
+Các nguồn dưới đây lấy từ tìm kiếm web, phần lớn là trang giới thiệu sản phẩm hoặc blog so sánh. Chưa dùng thử và chưa kiểm chứng giá hiện tại.
+
 | Công cụ / case / pattern | Link | Giải bước nào trong quy trình? | Điểm mạnh | Khoảng trống / rủi ro | Bài học cho nhóm |
 |---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
+| Canva Magic Design và AI Quiz / Magic Activities | [Teachers First: Canva AI for Educators](https://teachersfirst.org/blog/2025/05/experience-the-magic-canva-ai-for-educators/); [Educators Technology: Canva AI for Teachers](https://www.educatorstechnology.com/2026/10/canva-ai-for-teachers.html) | Bước 3–4 (dựng slide và thêm hiệu ứng), bước 5 (tạo câu hỏi tương tác) | Tạo bản nháp slide từ prompt ngắn; giáo viên miễn phí sau khi xác minh | Nguồn là blog giáo viên; Canva cảnh báo nội dung AI có thể sai, cần duyệt | Phương án "AI soạn nháp, giáo viên duyệt" có sẵn công cụ, nên nhóm cần chứng minh giá trị khác biệt so với Canva |
+| Curipod | [Chalkie: 7 interactive lesson slides generators](https://chalkie.ai/en/blog/lesson-slide-tools-for-teachers) | Bước 3–4 (slide tương tác), tập trung vào poll và câu hỏi trực tiếp | Học sinh vào bằng mã, không cần tài khoản | Tương tác là poll và quiz, ít hiệu ứng và âm thanh; gói trường có giá | Tương tác trong lớp khác với hiệu ứng hoạt hình; cần chọn đúng loại tương tác mong muốn |
+| Jotform AI Slide Generator | [Jotform: AI Slide Generator for Teachers](https://www.jotform.com/ai/presentation-agent/use-cases/education/) | Bước 1–4 (từ giáo án đến slide), có narration giọng nói | Tạo slide từ giáo án có sẵn, có thuyết minh bằng giọng nói | Thông tin từ trang quảng cáo; chưa rõ chất lượng giọng và mức độ "vui nhộn" với trẻ nhỏ | Narration là điểm khác biệt đáng thử cho lớp nhỏ |
+| Krikey AI (Animaker) | [Krikey: AI Lesson Plan Generator for Animated Lesson Planning](https://www.krikey.ai/animaker/create/book-report) | Bước 4 (hiệu ứng và nhân vật hoạt hình) | Nhân vật hoạt hình có lời nói, phù hợp hoạt động vui nhộn | Chủ yếu là hoạt hình và video, không phải bài tương tác; cần kiểm chứng | Gần với nhu cầu "vui nhộn", nên thử bằng một bài mẫu |
+| Chalkie | [Chalkie: 7 interactive lesson slides generators](https://chalkie.ai/en/blog/lesson-slide-tools-for-teachers) | Bước 2–4 (tạo slide, hoạt động, từ vựng, media nhúng) | Tạo bài học có hoạt động trong vài chục giây theo mô tả | Blog so sánh cho biết không xuất sang PowerPoint/Google Slides, bất lợi với trường dùng Google Workspace | Cần kiểm tra khả năng xuất file trước khi chọn |
+| Gamma | [Gamma: Best AI presentation tools for educators](https://gamma.app/explore/content/guides/best-ai-presentation-tools-for-educators) | Bước 3–4 (dựng slide nhanh) | Tạo slide thiết kế đẹp nhanh | Nguồn cho thấy chủ yếu là bố cục; chưa thấy âm thanh | Phù hợp làm slide nền, chưa đủ cho phần tương tác |
 
 ---
 
@@ -129,39 +146,55 @@ Tổng hợp:
 
 ### 4.1. Quy trình hiện tại
 
-Sơ đồ (ASCII, Mermaid hoặc link ảnh trong `report/assets/`):
+Sơ đồ:
 
 ```text
-
+1. Đọc giáo án, chọn nội dung cần minh họa
+2. Tìm hình ảnh, âm thanh phù hợp (web, kho cá nhân)
+3. Dựng slide trên PPT hoặc CapCut       ← bottleneck (3–5)
+4. Thêm hiệu ứng, chuyển cảnh, âm thanh  ← bottleneck (3–5)
+5. Thử trên máy, sửa lỗi hiển thị        ← bottleneck (3–5)
+6. Trình chiếu trên lớp
 ```
 
 | Bước | Actor | Input | Output | Thời gian / tần suất | Ghi chú |
 |---:|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | Giáo viên | Giáo án | Nội dung cần minh họa | _[chưa đo]_ | Chưa đo riêng |
+| 2 | Giáo viên | Nội dung cần minh họa | Hình, âm thanh | _[chưa đo]_ | Phụ thuộc kho tài nguyên |
+| 3 | Giáo viên | Hình, âm thanh, nội dung | Slide dựng xong | 30 phút (bài dễ) đến 1 giờ (bài chi tiết) | Ước tính từ card |
+| 4 | Giáo viên | Slide | Slide có hiệu ứng | Một phần của tổng 2 giờ | Ước tính từ card |
+| 5 | Giáo viên | Slide có hiệu ứng | Slide đã kiểm tra | _[chưa đo]_ | Chưa đo |
+| 6 | Giáo viên | Slide | Buổi học | Theo lịch dạy | Không thuộc phạm vi bottleneck |
 
-**Bottleneck chính:**
+**Bottleneck chính:** bước 3–5 (dựng và chỉnh hiệu ứng). Ước tính 30 phút với bài dễ và 2 giờ với bài chi tiết. _[chưa có: số phút từng bước 3, 4, 5 chưa đo]_
 
 ### 4.2. Quy trình tương lai
 
-Ghi rõ bước nào **Rule**, bước nào **AI**, bước nào **con người**, **boundary** ở đâu, **phương án quay về** khi AI sai.
+Phương án đề xuất (Workflow): AI soạn nháp, giáo viên duyệt. Không phải Agent.
 
 ```text
+1. Giáo viên dán giáo án vào công cụ                         [con người]
+2. AI đề xuất kịch bản tương tác: câu hỏi, gợi ý hiệu ứng,
+   lời thoại ngắn phù hợp lứa tuổi, dựa trên giáo án          [AI]
+3. Giáo viên chọn, sửa nội dung và kiểm tra kiến thức         [con người — BOUNDARY]
+4. Công cụ ghép kịch bản vào thư viện mẫu (bố cục, màu, âm thanh có sẵn)  [Rule / template]
+5. Giáo viên xem thử, sửa lỗi hiển thị                          [con người]
+6. Trình chiếu trên lớp                                         [con người]
 
+Phương án quay về khi AI sai: giáo viên dùng thư viện mẫu không AI ở bước 4 và tự nhập nội dung.
 ```
+
+Boundary: AI không tự đưa kiến thức ra học sinh mà không có giáo viên duyệt; AI không sinh hình ảnh hoặc âm thanh không rõ nguồn bản quyền; AI không thay đổi nội dung giáo án đã được duyệt.
 
 ### 4.3. Before / after
 
 | Chỉ số | Trước | Sau (kỳ vọng) | Ghi chú |
 |---|---:|---:|---|
-| Số bước | | | |
-| Tổng thời gian | | | |
-| Số bước thủ công | | | |
-| Bottleneck chính | | | |
-| Rủi ro mới phát sinh | | | |
+| Số bước | 6 | 6 | Số bước giữ nguyên, bước 3–5 được rút gọn |
+| Tổng thời gian | 30 phút đến 2 giờ | 15 phút (kỳ vọng) | Baseline ước tính, _[cần đo]_ |
+| Số bước thủ công | 3 (dựng, hiệu ứng, thử) | 1 (duyệt) | Kỳ vọng |
+| Bottleneck chính | Bước 3–5 | Bước 3 (duyệt nội dung của giáo viên) | Bottleneck có thể chuyển sang duyệt |
+| Rủi ro mới phát sinh | — | Nội dung sai, lời thoại không phù hợp, bản quyền tài nguyên | Xem mục 8.1 |
 
 ---
 
@@ -169,16 +202,18 @@ Ghi rõ bước nào **Rule**, bước nào **AI**, bước nào **con người*
 
 | Trường | Nội dung |
 |---|---|
-| **Actor** | |
-| **Quy trình** | |
-| **Bottleneck** | |
-| **Impact** | |
-| **Success Metric** (baseline → target, cách đo) | |
-| **Boundary** (AI không được làm gì; khi nào cần con người kiểm tra — HITL) | |
+| **Actor** | Giáo viên tiểu học soạn bài giảng; học sinh lớp nhỏ là người hưởng lợi |
+| **Quy trình** | Từ giáo án đến tương tác có hiệu ứng và âm thanh, trình chiếu trên lớp |
+| **Bottleneck** | Dựng và chỉnh hiệu ứng (bước 3–5), 30 phút với bài dễ, 2 giờ với bài chi tiết (ước tính) |
+| **Impact** | Giáo viên bỏ qua tương tác, dùng slide tĩnh; bài kém hấp dẫn với học sinh nhỏ; khó mở rộng sang nhiều bài và môn |
+| **Success Metric** (baseline → target, cách đo) | Thời gian làm một tương tác: 30 phút đến 2 giờ (ước tính) → 15 phút (cần đo). Điểm giáo viên chấm "vui, đúng nội dung" 1–5: _[chưa khảo sát]_ → ≥4. Tỷ lệ giáo viên dùng lại tương tác: _[chưa đo]_ → 95% |
+| **Boundary** | AI không đưa kiến thức ra học sinh khi chưa có giáo viên duyệt; không thay nội dung giáo án đã duyệt |
 
 Phản biện nhận được (từ AI hoặc nhóm khác) và nhóm có đồng ý không:
 
--
+- Luồng "Tạo tương tác" hiện có có thể đã đủ "vui nhộn" chưa? Nếu đã đủ, vấn đề thật là gì? (Quân tự đặt câu hỏi này. Nhóm chưa trả lời bằng bằng chứng.)
+- Giáo viên có chịu duyệt kịch bản AI viết không, hay chỉ muốn mẫu để chỉnh? _[chưa có: chờ phỏng vấn]_
+- Làm sao biết học sinh nhớ bài hơn, không chỉ là giáo viên thấy đẹp hơn? _[chưa có: cần thiết kế thử nghiệm]_
 
 ---
 
@@ -186,38 +221,38 @@ Phản biện nhận được (từ AI hoặc nhóm khác) và nhóm có đồng
 
 ### 6.1. Ma trận độ mơ hồ × độ phức tạp
 
-Bài của nhóm nằm ở ô:
+Bài của nhóm nằm ở ô: **độ mơ hồ vừa, độ phức tạp vừa**. Yêu cầu "vui nhộn, đúng nội dung" có nhiều cách hiểu (mơ hồ), nhưng quy trình soạn bài có các bước rõ (phức tạp vừa).
 
-Vì sao:
+Vì sao: Quy trình đã có các bước rõ, nên Workflow có thể chia việc giữa AI và giáo viên. Yêu cầu chất lượng "vui" khó định lượng, nên chưa đủ rõ để giao hẳn cho Agent.
 
 ### 6.2. So sánh 4 mức
 
 | Mức | Phương án cho bài của nhóm | Đủ khi nào | Rủi ro | Chọn? |
 |---|---|---|---|---|
-| **No AI** (sửa quy trình) | | | | |
-| **Rule** | | | | |
-| **Workflow** | | | | |
-| **Agent** | | | | |
+| **No AI** (sửa quy trình) | Thư viện mẫu theo chủ đề và lứa tuổi, giáo viên chỉ thay chữ và hình | Nếu giáo viên chấp nhận mẫu sẵn và thời gian giảm đủ | Mẫu không đúng nội dung từng bài; ít cá nhân hóa | Baseline so sánh |
+| **Rule** | Ghép bố cục, hiệu ứng theo bảng quy tắc theo môn và lứa tuổi | Nếu nội dung đã có cấu trúc (từ vựng, câu hỏi) | Không hiểu giáo án tự do | Chưa chọn, dùng làm bước 4 |
+| **Workflow** | AI đề xuất kịch bản từ giáo án, giáo viên duyệt, thư viện mẫu dựng | Khi giáo viên cần nội dung riêng cho từng bài và có thời gian duyệt | AI sai kiến thức, lời thoại không phù hợp trẻ nhỏ | **Chọn (đề xuất)** |
+| **Agent** | AI tự tạo và xuất bài học, giáo viên chỉ nhận kết quả | Chưa có trường hợp nào cần | Sai kiến thức không được phát hiện; khó kiểm soát trẻ nhỏ | Không chọn |
 
-**Mức chọn:**
+**Mức chọn:** Workflow (đề xuất, _[chưa có: nhóm bỏ phiếu]_).
 
-**Vì sao không chọn mức đơn giản hơn:**
+**Vì sao không chọn mức đơn giản hơn:** No AI và Rule là baseline cần so sánh trước. Nếu thư viện mẫu đạt mục tiêu thời gian và điểm "vui, đúng nội dung" ≥4, nhóm sẽ không cần AI. Đây là lý do nhóm đề xuất kiểm chứng baseline trước khi quyết định.
 
 ### 6.3. AI Canvas rút gọn
 
 | Thành phần | Nội dung |
 |---|---|
-| **Prediction** — AI dự đoán / tạo ra gì? | |
-| **Judgment** — con người cân nhắc, quyết định gì? | |
-| **Action** — hành động cuối cùng là gì, ai làm? | |
-| **Outcome** — đo kết quả bằng gì? | |
-| **Input** — AI cần dữ liệu đầu vào gì mỗi lần chạy? Có sẵn không? | |
-| **Feedback** — lấy phản hồi ở đâu để cải thiện? | |
+| **Prediction** — AI dự đoán / tạo ra gì? | Kịch bản tương tác nháp (câu hỏi, gợi ý hiệu ứng, lời thoại ngắn) từ giáo án |
+| **Judgment** — con người cân nhắc, quyết định gì? | Giáo viên quyết định nội dung đúng, lời thoại phù hợp, có dùng hay không |
+| **Action** — hành động cuối cùng là gì, ai làm? | Giáo viên chọn và dựng bài; học sinh xem trên lớp |
+| **Outcome** — đo kết quả bằng gì? | Thời gian dựng, điểm giáo viên chấm, tỷ lệ dùng lại |
+| **Input** — AI cần dữ liệu đầu vào gì mỗi lần chạy? Có sẵn không? | Giáo án của bài (có sẵn, do giáo viên soạn); thư viện mẫu (cần xây) |
+| **Feedback** — lấy phản hồi ở đâu để cải thiện? | Giáo viên sửa kịch bản, lưu lại các chỗ sửa để cải thiện prompt |
 
 ### 6.4. Hai câu hỏi của Google PAIR
 
-- Người dùng muốn **được hỗ trợ (augment)** hay **giao hẳn việc (automate)**? Bằng chứng:
-- AI sai kiểu nào tệ hơn, **báo nhầm** hay **bỏ sót**? Vì sao, và thiết kế đã xử lý thế nào:
+- Người dùng muốn **được hỗ trợ (augment)** hay **giao hẳn việc (automate)**? Bằng chứng: _[chưa có]_. Đề xuất: hỗ trợ (augment), vì giáo viên là người chịu trách nhiệm nội dung với học sinh.
+- AI sai kiểu nào tệ hơn, **báo nhầm** hay **bỏ sót**? Vì sao, và thiết kế đã xử lý thế nào: Báo nhầm (sai kiến thức) tệ hơn, vì học sinh có thể học sai. Thiết kế xử lý bằng bước duyệt của giáo viên trước khi trình chiếu (bước 3 trong quy trình tương lai).
 
 ---
 
@@ -225,29 +260,32 @@ Vì sao:
 
 | Trường | Nội dung |
 |---|---|
-| **Actor** | |
-| **Quy trình** | |
-| **Bottleneck** | |
-| **Impact** | |
-| **Success Metric** (baseline → target, cách đo) | |
-| **Boundary** | |
-| **AI intervention point** | |
-| **Mức chọn** | No AI / Rule / Workflow / Agent |
-| **Rủi ro & người kiểm tra** | |
+| **Actor** | Giáo viên tiểu học soạn bài; học sinh lớp nhỏ |
+| **Quy trình** | Giáo án → kịch bản tương tác (AI nháp, giáo viên duyệt) → thư viện mẫu dựng → trình chiếu |
+| **Bottleneck** | Dựng và chỉnh hiệu ứng (bước 3–5), và thời gian duyệt nội dung cho từng bài |
+| **Impact** | Tương tác bị bỏ qua hoặc làm quá lâu; bài kém hấp dẫn với học sinh nhỏ |
+| **Success Metric** (baseline → target, cách đo) | Thời gian làm một tương tác: _[baseline cần đo]_ → giảm 50%. Điểm "vui, đúng nội dung" ≥4 trên 5 (_[baseline cần khảo sát]_). Tỷ lệ kịch bản AI được giữ nguyên sau duyệt: _[chưa có target]_ |
+| **Boundary** | AI không đưa nội dung ra học sinh khi chưa được giáo viên duyệt; không tạo tài nguyên không rõ bản quyền; không thay giáo án đã duyệt |
+| **AI intervention point** | Bước 2 (đề xuất kịch bản nháp) |
+| **Mức chọn** | Workflow (đề xuất) |
+| **Rủi ro & người kiểm tra** | Sai kiến thức, lời thoại không phù hợp trẻ nhỏ. Người kiểm tra: giáo viên soạn bài và tổ chuyên môn (_[chưa có: xác nhận]_) |
 
 **Thay đổi so với v0 và lý do:**
 
 | Trường | v0 | v1 | Vì sao đổi |
 |---|---|---|---|
-| | | | |
+| Success Metric | Thời gian và điểm "vui" | Thêm tỷ lệ kịch bản được giữ sau duyệt | Đo chất lượng đầu ra của AI, không chỉ tốc độ |
+| Boundary | Chung chung | Cụ thể về nội dung kiến thức và bản quyền | Rủi ro chính là sai kiến thức với trẻ nhỏ |
+| Mức chọn | Chưa có | Workflow (đề xuất) | Sau khi so sánh 4 mức ở mục 6.2 |
 
 **Tiêu chí đánh giá đầu ra của AI (3–5 tiêu chí):**
 
 | # | Tiêu chí | Đạt khi | Không đạt khi |
 |---:|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Đúng nội dung giáo án | Mọi khái niệm trong kịch bản có trong giáo án | Có khái niệm không có trong giáo án hoặc sai |
+| 2 | Phù hợp lứa tuổi | Lời thoại ngắn, dễ hiểu, không có từ khó với học sinh lớp nhỏ | Dùng từ khó hoặc nội dung không phù hợp trẻ em |
+| 3 | Dùng được với ít chỉnh sửa | Giáo viên chỉnh dưới 20% nội dung | Giáo viên phải viết lại gần hết |
+| 4 | An toàn và rõ nguồn | Không có tài nguyên không rõ bản quyền | Có hình hoặc âm thanh không rõ nguồn |
 
 ---
 
@@ -257,31 +295,43 @@ Vì sao:
 
 | Rủi ro | Câu hỏi | Mức độ rủi ro (Thấp = an toàn / TB / Cao = nguy hiểm) | Lý do / bằng chứng |
 |---|---|---|---|
-| **Value** | Người dùng có thật sự cần và sẽ dùng không? | | |
-| **Usability** | Người dùng có dùng được, có hiểu và sửa được đầu ra của AI không? | | |
-| **Feasibility** | Có đủ dữ liệu, công cụ, kỹ năng để làm không? | | |
-| **Viability** | Có hợp chi phí, pháp lý, quy định tổ chức không? Ai vận hành? | | |
+| **Value** | Người dùng có thật sự cần và sẽ dùng không? | TB | Có nhu cầu được mô tả rõ, nhưng chưa phỏng vấn giáo viên nào; chưa có bằng chứng dùng lại |
+| **Usability** | Người dùng có dùng được, có hiểu và sửa được đầu ra của AI không? | Cao | Giáo viên phải duyệt nội dung mà họ chưa chắc có thời gian hoặc kỹ năng; chưa kiểm chứng |
+| **Feasibility** | Có đủ dữ liệu, công cụ, kỹ năng để làm không? | TB | Đã có luồng "Tạo tương tác" và nhiều công cụ tương tự (mục 3.3); chất lượng "vui nhộn" cho lớp nhỏ chưa được thử |
+| **Viability** | Có hợp chi phí, pháp lý, quy định tổ chức không? Ai vận hành? | TB | Bản quyền tài nguyên và quy định nội dung cho trẻ em cần người phụ trách; chưa rõ ai vận hành |
 
 ### 8.2. Kết luận
 
-**Quyết định:** Go / Not Yet / No-Go
+**Quyết định:** Not Yet (đề xuất, _[chưa có: nhóm bỏ phiếu]_)
 
-**Lý do:**
+**Lý do:** Vấn đề và phương án Workflow có nền tảng, nhưng chưa có baseline đo được (thời gian thực tế, điểm "vui" của giáo viên), chưa phỏng vấn giáo viên tiểu học, và rủi ro Usability đang ở mức cao. Chưa đủ bằng chứng để Go.
 
-**Nếu Go — pilot nhỏ nhất:**
+**Nếu Go — pilot nhỏ nhất:** _[không áp dụng ở thời điểm này]_. Khi chuyển sang Go, pilot đề xuất: 2–3 giáo viên, 1 môn, 4 bài, so sánh với thư viện mẫu.
 
 **Nếu Not Yet — cần kiểm chứng gì trước:**
+1. Bấm giờ 3 bài soạn thực tế dùng luồng hiện có (baseline thời gian).
+2. Phỏng vấn 2–3 giáo viên tiểu học: cách dựng, thời gian, cách duyệt nội dung, có chịu duyệt kịch bản AI không.
+3. Làm một bài mẫu theo phương án Workflow và cho 2–3 giáo viên chấm điểm "vui, đúng nội dung" (1–5), so với bài mẫu không AI.
+4. Chạy thử 3 công cụ ở mục 3.3 (ví dụ Canva, Jotform, Krikey) trên cùng một giáo án để so sánh.
 
-**Nếu No-Go — nên làm gì thay AI:**
+**Nếu No-Go — nên làm gì thay AI:** Nếu thư viện mẫu không AI đạt mục tiêu thời gian và điểm "vui", nhóm nên xây thư viện mẫu theo môn và lứa tuổi (không AI), để giáo viên thay chữ và hình.
 
-**Ngưỡng dừng** (nếu sau … mà … thì quay về …):
+**Ngưỡng dừng** (nếu sau 4 tuần kiểm chứng mà thời gian dựng vẫn trên 60 phút mỗi bài, hoặc điểm "vui" không đạt ≥4 với mẫu AI, thì quay về thư viện mẫu không AI): _[chưa có: nhóm xác nhận ngưỡng]_
 
 ---
 
 ## 9. Hạn chế và hướng tiếp theo
 
--
+- Chưa có bất kỳ phỏng vấn hoặc số liệu đo thực tế nào. Toàn bộ thời gian trong bài là ước tính từ card cá nhân.
+- Điểm shortlist là nháp, chưa chấm chung.
+- Thông tin về công cụ ở mục 3.3 lấy từ trang quảng cáo và blog, chưa kiểm chứng giá và tính năng hiện tại.
+- Tổng hợp và kế hoạch kiểm chứng ở mục 3.2 và mục 8.2 là việc tiếp theo của nhóm.
 
 ## 10. Tài liệu tham khảo
 
--
+- Teachers First, "Experience the Magic: Canva AI for Educators" — https://teachersfirst.org/blog/2025/05/experience-the-magic-canva-ai-for-educators/
+- Educators Technology, "Canva AI for Teachers" — https://www.educatorstechnology.com/2026/10/canva-ai-for-teachers.html
+- Chalkie, "7 Best Interactive Lesson Slides Generators for Teachers" — https://chalkie.ai/en/blog/lesson-slide-tools-for-teachers
+- Jotform, "AI Slide Generator for Teachers" — https://www.jotform.com/ai/presentation-agent/use-cases/education/
+- Krikey AI, "AI Lesson Plan Generator for Animated Lesson Planning" — https://www.krikey.ai/animaker/create/book-report
+- Gamma, "Best AI presentation tools for educators" — https://gamma.app/explore/content/guides/best-ai-presentation-tools-for-educators
