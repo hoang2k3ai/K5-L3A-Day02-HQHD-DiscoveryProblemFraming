@@ -43,17 +43,19 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 - Phần cá nhân CP1–CP2: scan 10 problem, chọn top 3 Problem Card và quy trình nháp
 - Pitch 3 card ở CP3 và phản biện bài của bạn khác _(bổ sung nếu có phần việc khác)_
+- Pitch card #1 (giáo viên tiểu học) làm candidate chính của nhóm; đóng góp PS v0–v1 và mức can thiệp Workflow _(bạn xác nhận phần tự làm)_
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
 
-- Báo cáo cá nhân `report/individual/2A202603705_LeHongQuan.md`: scan, 3 Problem Card, quy trình nháp
+- Báo cáo cá nhân `report/individual/2A202603705_LeHongQuan.md`: scan, 3 Problem Card, quy trình nháp, mục 4 (tham gia nhóm) và mục 5 (dùng AI) đã điền một phần
 - Đưa 3 Problem Card của mình vào bảng pitch (`group_report.md` mục 2.1, dòng 1–3)
+- Candidate được nhóm chọn: card #1 (bỏ phiếu 3/4), ghi ở `group_report.md` mục 2.4
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
-- `report/team/group_report.md` mục 2.1, dòng 1–3
+- `report/team/group_report.md` mục 2.1 dòng 1–3, mục 2.4, mục 5, mục 6.2, mục 7
 - `report/individual/2A202603705_LeHongQuan.md`
-- Commit `2e03d72` (báo cáo cá nhân)
+- Commit `2e03d72` (báo cáo cá nhân), `1764b33` (bảng 2.4), `108a38c` (group report đầy đủ)
 
 **Điều mình học được từ phần nhóm:**
 

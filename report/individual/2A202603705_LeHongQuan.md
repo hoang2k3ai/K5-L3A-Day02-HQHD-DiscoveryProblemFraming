@@ -149,13 +149,13 @@ Bottleneck: bước 1–3 (ước 60 phút, cần đo; số phút từng bước
 | Pitch Problem Card |Tôi đưa ra 10 problem scan và 3 top problem|Đóng góp được vào sự lựa chọn của nhóm bằng ý tưởng riêng của mình |
 | Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: Đa phần các câu hỏi tôi sẽ hỏi về số liệu các bạn đã kiểm chứng, và các ý tưởng của các bạn có áp dụng tốt trong thực tế, cuộc sống hằng ngày hay không ?| Làm rõ được chất lượng đầu ra, chi tiết về câu trả lời chung của nhóm, chốt được bài nào có chất lượng tốt nhất nằm trong file của nhóm|
 | Nhận phản biện | Câu hỏi tôi nhận được: Hỏi về áp dụng ở đâu trong thực tế| Tôi đã sửa gì: sửa lại ghi rõ về áp dụng của phần tôi trong thực tế môi trường công ty giáo dục|
-| Gom cluster / cây OST | _[Bạn điền]_ | _[Bạn điền]_ |
-| Chọn candidate problem | _[Bạn điền]_ | _[Bạn điền]_ |
-| Kiểm chứng / research | _[Bạn điền]_ | _[Bạn điền]_ |
+| Gom cluster / cây OST | Tham gia thảo luận cluster A/B/C và cây OST 1 outcome, 3 opportunity. _[Bạn xác nhận phần tự làm cụ thể]_ | Nhóm thống nhất cluster và OST, xem `group_report.md` mục 2.2–2.3 |
+| Chọn candidate problem | Pitch card #1 (giáo viên tiểu học, tương tác và hiệu ứng) làm candidate chính. Chấm điểm nháp 27/28/25/24 ở mục 2.4 | Nhóm bỏ phiếu 3/4 chọn card này, xem `group_report.md` mục 2.4 |
+| Kiểm chứng / research | Phỏng vấn và bấm giờ theo nhóm: 5 giáo viên, 3 bài soạn (`group_report.md` mục 3.2). _[Bạn xác nhận phần tự làm cụ thể]_ | Pain được giáo viên xác nhận; Usability (giáo viên duyệt nội dung AI) vẫn là rủi ro cao, xem mục 8.1 |
 | Quy trình nhóm |Tham gia làm cá nhân, góp ý nhóm| |
-| Problem Statement | _[Bạn điền]_ | _[Bạn điền]_ |
-| Mức can thiệp AI | _[Bạn điền]_ | _[Bạn điền]_ |
-| Quyết định | _[Bạn điền]_ | _[Bạn điền]_ |
+| Problem Statement | Đóng góp PS v0 và v1 cho card #1 (`group_report.md` mục 5, 7). _[Bạn xác nhận phần tự viết]_ | PS v1 thêm metric giữ kịch bản sau duyệt và boundary về bản quyền |
+| Mức can thiệp AI | Đề xuất Workflow (AI soạn nháp, giáo viên duyệt), so sánh 4 mức ở mục 6.2 | Nhóm bỏ phiếu 4/4 chọn Workflow |
+| Quyết định | Nhóm ghi Yet 4/4 (mục 8.2) | _[Lưu ý: phần lý do trong group_report ghi "Đã có cơ sở để GO", chưa nhất quán với Yet. Nhóm cần sửa]_ |
 
 ---
 
