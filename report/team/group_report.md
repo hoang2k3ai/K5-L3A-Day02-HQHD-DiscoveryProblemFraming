@@ -18,9 +18,9 @@
 
 | # | Người đưa ra | Candidate (Job Story ngắn) | Actor | Bottleneck | Câu hỏi phản biện nhận được (ai hỏi) |
 |---:|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
+| 1 | Lê Hồng Quân (card muốn pitch nhất) | Khi chuẩn bị bài giảng tiểu học, giáo viên muốn có tương tác và hiệu ứng vui nhộn đúng nội dung bài, để học sinh nhớ bài và tham gia hơn | Giáo viên tiểu học; học sinh lớp nhỏ | Bước 3–5 (dựng và chỉnh hiệu ứng): 30 phút với bài dễ, 2 giờ với bài chi tiết | Hỏi về áp dụng ở đâu trong thực tế (người hỏi: _[bổ sung]_) |
+| 2 | Lê Hồng Quân | Khi sáng thứ Hai nhận báo cáo tuần về con, phụ huynh muốn biết con đã học gì và còn yếu chỗ nào, để hỏi và động viên con đúng lúc | Phụ huynh; giáo viên viết nhận xét | Bước 4: soạn nhận xét 2 phút mỗi em, lớp 40 em khoảng 1 giờ 30 phút | _[chưa có câu hỏi]_ |
+| 3 | Lê Hồng Quân | Khi mỗi sáng báo cáo với team lead, tôi muốn có sẵn tóm tắt việc đã xong, đang làm và bị chặn, để không phải nhớ lại | Bản thân (người báo cáo); team lead | Bước 1–3: nhớ và đối chiếu, ước 60 phút/ngày (chưa đo) | _[chưa có câu hỏi]_ |
 | 4 | | | | | |
 | 5 | | | | | |
 | 6 | | | | | |

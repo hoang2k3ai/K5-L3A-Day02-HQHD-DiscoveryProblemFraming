@@ -37,20 +37,24 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
 
-### HoVaTen-MSSV
+### Lê Hồng Quân-2A202603705
 
 **Phần việc phụ trách:**
 
--
+- Phần cá nhân CP1–CP2: scan 10 problem, chọn top 3 Problem Card và quy trình nháp
+- Pitch 3 card ở CP3 và phản biện bài của bạn khác _(bổ sung nếu có phần việc khác)_
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
 
--
+- Báo cáo cá nhân `report/individual/2A202603705_LeHongQuan.md`: scan, 3 Problem Card, quy trình nháp
+- Đưa 3 Problem Card của mình vào bảng pitch (`group_report.md` mục 2.1, dòng 1–3)
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
--
+- `report/team/group_report.md` mục 2.1, dòng 1–3
+- `report/individual/2A202603705_LeHongQuan.md`
+- Commit `2e03d72` (báo cáo cá nhân)
 
 **Điều mình học được từ phần nhóm:**
 
--
+- _[Bạn điền]_
